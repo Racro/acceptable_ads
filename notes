@@ -1,0 +1,16 @@
+# For generating callgraph (https://chat.openai.com/share/43f9496e-8bbd-4d7c-9d69-fa6c7bbd1eb2)
+    Commands:
+        - npm install -g madge
+        - npm install --save-dev @babel/core @babel/cli @babel/preset-env
+        - npm install --save-dev @babel/plugin-syntax-import-attributes
+        - in .babelrc
+          {
+            "presets": ["@babel/preset-env"],
+            "plugins": [
+              ["@babel/plugin-syntax-import-attributes", { "deprecatedAssertSyntax": true }]
+            ]
+          }
+        - npx babel src --out-dir transpiled-src
+        - madge --image graph.svg transpiled-src
+
+          
