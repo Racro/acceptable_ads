@@ -1,0 +1,42 @@
+[INFO 2024-04-19T20:01:17-04:00] Postgres driver initialized
+[INFO 2024-04-19T20:01:17-04:00] Launching browser...
+[INFO 2024-04-19T20:01:17-04:00] Running Chrome/119.0.6045.105
+[INFO 2024-04-19T20:01:17-04:00] https://www.mrdonn.org: Loading page
+[INFO 2024-04-19T20:01:30-04:00] https://www.mrdonn.org: Page finished loading
+[INFO 2024-04-19T20:01:30-04:00] https://www.mrdonn.org/: Scrolling page from top to bottom
+[INFO 2024-04-19T20:01:48-04:00] https://www.mrdonn.org/: Scraping page
+[INFO 2024-04-19T20:01:51-04:00] https://www.mrdonn.org/: 14 ads identified
+[INFO 2024-04-19T20:01:51-04:00] https://www.mrdonn.org/: Scraping ad 1 of 14
+[WARNING 2024-04-19T20:01:56-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-19T20:01:56-04:00] https://www.mrdonn.org/: Scraping ad 2 of 14
+[INFO 2024-04-19T20:02:01-04:00] https://www.mrdonn.org/: Clicking on ad 310
+[WARNING 2024-04-19T20:02:11-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-19T20:02:11-04:00] https://www.mrdonn.org/: Scraping ad 3 of 14
+[INFO 2024-04-19T20:02:17-04:00] https://www.mrdonn.org/: Clicking on ad 311
+[WARNING 2024-04-19T20:02:27-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-19T20:02:27-04:00] https://www.mrdonn.org/: Scraping ad 4 of 14
+[INFO 2024-04-19T20:02:32-04:00] https://www.mrdonn.org/: Clicking on ad 312
+[WARNING 2024-04-19T20:02:42-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-19T20:02:42-04:00] https://www.mrdonn.org/: Scraping ad 5 of 14
+[INFO 2024-04-19T20:02:47-04:00] https://www.mrdonn.org/: Clicking on ad 313
+[WARNING 2024-04-19T20:02:57-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-19T20:02:57-04:00] https://www.mrdonn.org/: Scraping ad 6 of 14
+[INFO 2024-04-19T20:03:03-04:00] https://www.mrdonn.org/: Clicking on ad 314
+[INFO 2024-04-19T20:03:03-04:00] https://www.mrdonn.org/: Scraping ad 7 of 14
+[INFO 2024-04-19T20:03:08-04:00] https://www.mrdonn.org/: Clicking on ad 315
+[INFO 2024-04-19T20:03:08-04:00] https://www.mrdonn.org/: Scraping ad 8 of 14
+[WARNING 2024-04-19T20:03:13-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-19T20:03:13-04:00] https://www.mrdonn.org/: Scraping ad 9 of 14
+[WARNING 2024-04-19T20:03:18-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-19T20:03:18-04:00] https://www.mrdonn.org/: Scraping ad 10 of 14
+[WARNING 2024-04-19T20:03:23-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-19T20:03:23-04:00] https://www.mrdonn.org/: Scraping ad 11 of 14
+[WARNING 2024-04-19T20:03:28-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-19T20:03:28-04:00] https://www.mrdonn.org/: Scraping ad 12 of 14
+[INFO 2024-04-19T20:03:33-04:00] https://www.mrdonn.org/: Clicking on ad 320
+[INFO 2024-04-19T20:03:33-04:00] https://www.mrdonn.org/: Scraping ad 13 of 14
+[WARNING 2024-04-19T20:03:38-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-19T20:03:38-04:00] https://www.mrdonn.org/: Scraping ad 14 of 14
+[INFO 2024-04-19T20:03:44-04:00] https://www.mrdonn.org/: Clicking on ad 322
+[WARNING 2024-04-19T20:03:54-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-19T20:03:54-04:00] https://www.businessinsider.com: Loading page

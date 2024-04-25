@@ -1,0 +1,200 @@
+[INFO 2024-04-22T16:26:14-04:00] Postgres driver initialized
+[INFO 2024-04-22T16:26:14-04:00] Launching browser...
+[INFO 2024-04-22T16:26:14-04:00] Running Chrome/113.0.5672.63
+[INFO 2024-04-22T16:26:19-04:00] https://www.google.com: Loading page
+[INFO 2024-04-22T16:26:30-04:00] https://www.google.com: Page finished loading
+[INFO 2024-04-22T16:26:30-04:00] https://www.google.com/: Scrolling page from top to bottom
+[INFO 2024-04-22T16:26:30-04:00] https://www.google.com/: Scraping page
+[INFO 2024-04-22T16:26:30-04:00] https://www.google.com/: 0 ads identified
+[INFO 2024-04-22T16:26:30-04:00] https://www.google.com/: Finding random page with ads on it
+[INFO 2024-04-22T16:26:44-04:00] https://www.google.com/search?sca_esv=3b839ef1c7e47fd1&q=climate+change+progress&oi=ddle&ct=308473234&hl=en&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmbmglZVeSBFih54d1fsqVSN4w2ldzzLHc2Zk8hWeWzrwQnoqx32e9dOzapCJvXFCInDaux_bBTPLNpFbv-pa8EPrx5Z5QjrLwb3IDTu4rFGxhlajQpAIXlXQIfbv1nLk1WbWPk%3D&sa=X&ved=0ahUKEwjqtcGA1NaFAxUdMjQIHWZxCuQQPQgE: Loading page
+[INFO 2024-04-22T16:26:55-04:00] https://www.google.com/search?sca_esv=3b839ef1c7e47fd1&q=climate+change+progress&oi=ddle&ct=308473234&hl=en&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmbmglZVeSBFih54d1fsqVSN4w2ldzzLHc2Zk8hWeWzrwQnoqx32e9dOzapCJvXFCInDaux_bBTPLNpFbv-pa8EPrx5Z5QjrLwb3IDTu4rFGxhlajQpAIXlXQIfbv1nLk1WbWPk%3D&sa=X&ved=0ahUKEwjqtcGA1NaFAxUdMjQIHWZxCuQQPQgE: Page finished loading
+[INFO 2024-04-22T16:26:55-04:00] https://www.google.com/search?sca_esv=3b839ef1c7e47fd1&q=climate+change+progress&oi=ddle&ct=308473234&hl=en&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmbmglZVeSBFih54d1fsqVSN4w2ldzzLHc2Zk8hWeWzrwQnoqx32e9dOzapCJvXFCInDaux_bBTPLNpFbv-pa8EPrx5Z5QjrLwb3IDTu4rFGxhlajQpAIXlXQIfbv1nLk1WbWPk%3D&sa=X&ved=0ahUKEwjqtcGA1NaFAxUdMjQIHWZxCuQQPQgE: Scrolling page from top to bottom
+[INFO 2024-04-22T16:27:03-04:00] https://www.google.com/search?sca_esv=3b839ef1c7e47fd1&q=climate+change+progress&oi=ddle&ct=308473234&hl=en&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmbmglZVeSBFih54d1fsqVSN4w2ldzzLHc2Zk8hWeWzrwQnoqx32e9dOzapCJvXFCInDaux_bBTPLNpFbv-pa8EPrx5Z5QjrLwb3IDTu4rFGxhlajQpAIXlXQIfbv1nLk1WbWPk%3D&sa=X&ved=0ahUKEwjqtcGA1NaFAxUdMjQIHWZxCuQQPQgE#ip=1: Scraping page
+[INFO 2024-04-22T16:27:05-04:00] https://www.google.com/search?sca_esv=3b839ef1c7e47fd1&q=climate+change+progress&oi=ddle&ct=308473234&hl=en&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmbmglZVeSBFih54d1fsqVSN4w2ldzzLHc2Zk8hWeWzrwQnoqx32e9dOzapCJvXFCInDaux_bBTPLNpFbv-pa8EPrx5Z5QjrLwb3IDTu4rFGxhlajQpAIXlXQIfbv1nLk1WbWPk%3D&sa=X&ved=0ahUKEwjqtcGA1NaFAxUdMjQIHWZxCuQQPQgE#ip=1: 2 ads identified
+[INFO 2024-04-22T16:27:05-04:00] https://www.google.com/search?sca_esv=3b839ef1c7e47fd1&q=climate+change+progress&oi=ddle&ct=308473234&hl=en&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmbmglZVeSBFih54d1fsqVSN4w2ldzzLHc2Zk8hWeWzrwQnoqx32e9dOzapCJvXFCInDaux_bBTPLNpFbv-pa8EPrx5Z5QjrLwb3IDTu4rFGxhlajQpAIXlXQIfbv1nLk1WbWPk%3D&sa=X&ved=0ahUKEwjqtcGA1NaFAxUdMjQIHWZxCuQQPQgE#ip=1: Scraping ad 1 of 2
+[WARNING 2024-04-22T16:27:10-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:27:10-04:00] https://www.google.com/search?sca_esv=3b839ef1c7e47fd1&q=climate+change+progress&oi=ddle&ct=308473234&hl=en&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmbmglZVeSBFih54d1fsqVSN4w2ldzzLHc2Zk8hWeWzrwQnoqx32e9dOzapCJvXFCInDaux_bBTPLNpFbv-pa8EPrx5Z5QjrLwb3IDTu4rFGxhlajQpAIXlXQIfbv1nLk1WbWPk%3D&sa=X&ved=0ahUKEwjqtcGA1NaFAxUdMjQIHWZxCuQQPQgE#ip=1: Scraping ad 2 of 2
+[WARNING 2024-04-22T16:27:15-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:27:20-04:00] https://www.geeksforgeeks.com: Loading page
+[INFO 2024-04-22T16:27:31-04:00] https://www.geeksforgeeks.com/: Scrolling page from top to bottom
+[INFO 2024-04-22T16:27:31-04:00] https://www.geeksforgeeks.com: Page finished loading
+[INFO 2024-04-22T16:28:01-04:00] https://www.geeksforgeeks.com/: Scraping page
+[INFO 2024-04-22T16:28:01-04:00] https://www.geeksforgeeks.com/: 2 ads identified
+[INFO 2024-04-22T16:28:01-04:00] https://www.geeksforgeeks.com/: Scraping ad 1 of 2
+[WARNING 2024-04-22T16:28:06-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:28:06-04:00] https://www.geeksforgeeks.com/: Scraping ad 2 of 2
+[INFO 2024-04-22T16:28:12-04:00] https://www.geeksforgeeks.com/: Clicking on ad 410
+[INFO 2024-04-22T16:28:12-04:00] https://www.geeksforgeeks.com/: Finding random page with ads on it
+[ERROR 2024-04-22T16:28:16-04:00] https://www.geeksforgeeks.com: Couldn't find article
+[INFO 2024-04-22T16:28:22-04:00] https://www.mrdonn.org: Loading page
+[INFO 2024-04-22T16:28:35-04:00] https://www.mrdonn.org: Page finished loading
+[INFO 2024-04-22T16:28:35-04:00] https://www.mrdonn.org/: Scrolling page from top to bottom
+[INFO 2024-04-22T16:28:52-04:00] https://www.mrdonn.org/: Scraping page
+[INFO 2024-04-22T16:28:54-04:00] https://www.mrdonn.org/: 13 ads identified
+[INFO 2024-04-22T16:28:54-04:00] https://www.mrdonn.org/: Scraping ad 1 of 13
+[WARNING 2024-04-22T16:29:00-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:29:00-04:00] https://www.mrdonn.org/: Scraping ad 2 of 13
+[INFO 2024-04-22T16:29:05-04:00] https://www.mrdonn.org/: Clicking on ad 412
+[INFO 2024-04-22T16:29:05-04:00] https://www.mrdonn.org/: Scraping ad 3 of 13
+[INFO 2024-04-22T16:29:10-04:00] https://www.mrdonn.org/: Clicking on ad 413
+[INFO 2024-04-22T16:29:10-04:00] https://www.mrdonn.org/: Scraping ad 4 of 13
+[INFO 2024-04-22T16:29:16-04:00] https://www.mrdonn.org/: Clicking on ad 414
+[INFO 2024-04-22T16:29:16-04:00] https://www.mrdonn.org/: Scraping ad 5 of 13
+[INFO 2024-04-22T16:29:21-04:00] https://www.mrdonn.org/: Clicking on ad 415
+[INFO 2024-04-22T16:29:21-04:00] https://www.mrdonn.org/: Scraping ad 6 of 13
+[WARNING 2024-04-22T16:29:26-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:29:26-04:00] https://www.mrdonn.org/: Scraping ad 7 of 13
+[WARNING 2024-04-22T16:29:31-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:29:31-04:00] https://www.mrdonn.org/: Scraping ad 8 of 13
+[INFO 2024-04-22T16:29:36-04:00] https://www.mrdonn.org/: Clicking on ad 418
+[WARNING 2024-04-22T16:29:46-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-22T16:29:46-04:00] https://www.mrdonn.org/: Scraping ad 9 of 13
+[WARNING 2024-04-22T16:29:51-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:29:51-04:00] https://www.mrdonn.org/: Scraping ad 10 of 13
+[WARNING 2024-04-22T16:29:56-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:29:56-04:00] https://www.mrdonn.org/: Scraping ad 11 of 13
+[INFO 2024-04-22T16:30:02-04:00] https://www.mrdonn.org/: Clicking on ad 421
+[INFO 2024-04-22T16:30:02-04:00] https://www.mrdonn.org/: Scraping ad 12 of 13
+[WARNING 2024-04-22T16:30:07-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:30:07-04:00] https://www.mrdonn.org/: Scraping ad 13 of 13
+[INFO 2024-04-22T16:30:12-04:00] https://www.mrdonn.org/: Clicking on ad 423
+[INFO 2024-04-22T16:30:12-04:00] https://www.mrdonn.org/: Finding random page with ads on it
+[INFO 2024-04-22T16:30:16-04:00] https://www.mrdonn.org/powerpoints.html: Loading page
+[INFO 2024-04-22T16:30:27-04:00] https://www.mrdonn.org/powerpoints.html: Page finished loading
+[INFO 2024-04-22T16:30:27-04:00] https://www.mrdonn.org/powerpoints.html: Scrolling page from top to bottom
+[INFO 2024-04-22T16:30:39-04:00] https://www.mrdonn.org/powerpoints.html: Scraping page
+[INFO 2024-04-22T16:30:41-04:00] https://www.mrdonn.org/powerpoints.html: 11 ads identified
+[INFO 2024-04-22T16:30:41-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 1 of 11
+[WARNING 2024-04-22T16:30:46-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:30:46-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 2 of 11
+[INFO 2024-04-22T16:30:52-04:00] https://www.mrdonn.org/powerpoints.html: Clicking on ad 425
+[INFO 2024-04-22T16:30:52-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 3 of 11
+[INFO 2024-04-22T16:30:57-04:00] https://www.mrdonn.org/powerpoints.html: Clicking on ad 426
+[INFO 2024-04-22T16:30:57-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 4 of 11
+[INFO 2024-04-22T16:31:02-04:00] https://www.mrdonn.org/powerpoints.html: Clicking on ad 427
+[INFO 2024-04-22T16:31:02-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 5 of 11
+[INFO 2024-04-22T16:31:08-04:00] https://www.mrdonn.org/powerpoints.html: Clicking on ad 428
+[INFO 2024-04-22T16:31:08-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 6 of 11
+[WARNING 2024-04-22T16:31:13-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:31:13-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 7 of 11
+[WARNING 2024-04-22T16:31:18-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:31:18-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 8 of 11
+[INFO 2024-04-22T16:31:23-04:00] https://www.mrdonn.org/powerpoints.html: Clicking on ad 431
+[INFO 2024-04-22T16:31:23-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 9 of 11
+[WARNING 2024-04-22T16:31:28-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:31:28-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 10 of 11
+[WARNING 2024-04-22T16:31:33-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:31:33-04:00] https://www.mrdonn.org/powerpoints.html: Scraping ad 11 of 11
+[INFO 2024-04-22T16:31:39-04:00] https://www.mrdonn.org/powerpoints.html: Clicking on ad 434
+[INFO 2024-04-22T16:31:44-04:00] https://www.businessinsider.com: Loading page
+[INFO 2024-04-22T16:31:54-04:00] https://www.businessinsider.com: Page finished loading
+[INFO 2024-04-22T16:31:54-04:00] https://www.businessinsider.com/: Scrolling page from top to bottom
+[INFO 2024-04-22T16:32:14-04:00] https://www.businessinsider.com/: Scraping page
+[INFO 2024-04-22T16:32:19-04:00] https://www.businessinsider.com/: 16 ads identified
+[INFO 2024-04-22T16:32:19-04:00] https://www.businessinsider.com/: Scraping ad 1 of 16
+[INFO 2024-04-22T16:32:24-04:00] https://www.businessinsider.com/: Clicking on ad 435
+[INFO 2024-04-22T16:32:24-04:00] https://www.businessinsider.com/: Scraping ad 2 of 16
+[INFO 2024-04-22T16:32:30-04:00] https://www.businessinsider.com/: Clicking on ad 436
+[WARNING 2024-04-22T16:32:40-04:00] Couldn't click ad: Error: https://www.businessinsider.com/: Ad click timed out - 10000ms
+[INFO 2024-04-22T16:32:40-04:00] https://www.businessinsider.com/: Scraping ad 3 of 16
+[INFO 2024-04-22T16:32:45-04:00] https://www.businessinsider.com/: Clicking on ad 437
+[INFO 2024-04-22T16:32:45-04:00] https://www.businessinsider.com/: Scraping ad 4 of 16
+[INFO 2024-04-22T16:32:50-04:00] https://www.businessinsider.com/: Clicking on ad 438
+[WARNING 2024-04-22T16:33:00-04:00] Couldn't click ad: Error: https://www.businessinsider.com/: Ad click timed out - 10000ms
+[INFO 2024-04-22T16:33:00-04:00] https://www.businessinsider.com/: Scraping ad 5 of 16
+[INFO 2024-04-22T16:33:05-04:00] https://www.businessinsider.com/: Clicking on ad 439
+[INFO 2024-04-22T16:33:05-04:00] https://www.businessinsider.com/: Scraping ad 6 of 16
+[INFO 2024-04-22T16:33:11-04:00] https://www.businessinsider.com/: Clicking on ad 440
+[WARNING 2024-04-22T16:33:21-04:00] Couldn't click ad: Error: https://www.businessinsider.com/: Ad click timed out - 10000ms
+[INFO 2024-04-22T16:33:21-04:00] https://www.businessinsider.com/: Scraping ad 7 of 16
+[INFO 2024-04-22T16:33:26-04:00] https://www.businessinsider.com/: Clicking on ad 441
+[WARNING 2024-04-22T16:33:36-04:00] Couldn't click ad: Error: https://www.businessinsider.com/: Ad click timed out - 10000ms
+[INFO 2024-04-22T16:33:36-04:00] https://www.businessinsider.com/: Scraping ad 8 of 16
+[INFO 2024-04-22T16:33:42-04:00] https://www.businessinsider.com/: Clicking on ad 442
+[INFO 2024-04-22T16:33:42-04:00] https://www.businessinsider.com/: Scraping ad 9 of 16
+[WARNING 2024-04-22T16:33:47-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:33:47-04:00] https://www.businessinsider.com/: Scraping ad 10 of 16
+[WARNING 2024-04-22T16:33:52-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:33:52-04:00] https://www.businessinsider.com/: Scraping ad 11 of 16
+[WARNING 2024-04-22T16:33:57-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:33:57-04:00] https://www.businessinsider.com/: Scraping ad 12 of 16
+[INFO 2024-04-22T16:34:02-04:00] https://www.businessinsider.com/: Clicking on ad 446
+[WARNING 2024-04-22T16:34:12-04:00] Couldn't click ad: Error: https://www.businessinsider.com/: Ad click timed out - 10000ms
+[INFO 2024-04-22T16:34:12-04:00] https://www.businessinsider.com/: Scraping ad 13 of 16
+[WARNING 2024-04-22T16:34:17-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:34:17-04:00] https://www.businessinsider.com/: Scraping ad 14 of 16
+[INFO 2024-04-22T16:34:22-04:00] https://www.businessinsider.com/: Clicking on ad 448
+[INFO 2024-04-22T16:34:22-04:00] https://www.businessinsider.com/: Scraping ad 15 of 16
+[WARNING 2024-04-22T16:34:28-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:34:28-04:00] https://www.businessinsider.com/: Scraping ad 16 of 16
+[INFO 2024-04-22T16:34:33-04:00] https://www.businessinsider.com/: Clicking on ad 450
+[INFO 2024-04-22T16:34:33-04:00] https://www.businessinsider.com/: Finding random page with ads on it
+[INFO 2024-04-22T16:34:35-04:00] https://www.businessinsider.com/tech: Loading page
+[INFO 2024-04-22T16:34:45-04:00] https://www.businessinsider.com/tech: Page finished loading
+[INFO 2024-04-22T16:34:45-04:00] https://www.businessinsider.com/tech: Scrolling page from top to bottom
+[INFO 2024-04-22T16:35:16-04:00] https://www.businessinsider.com/tech: Scraping page
+[INFO 2024-04-22T16:35:23-04:00] https://www.businessinsider.com/tech: 12 ads identified
+[INFO 2024-04-22T16:35:23-04:00] https://www.businessinsider.com/tech: Scraping ad 1 of 12
+[INFO 2024-04-22T16:35:28-04:00] https://www.businessinsider.com/tech: Clicking on ad 451
+[INFO 2024-04-22T16:35:28-04:00] https://www.businessinsider.com/tech: Scraping ad 2 of 12
+[INFO 2024-04-22T16:35:33-04:00] https://www.businessinsider.com/tech: Clicking on ad 452
+[INFO 2024-04-22T16:35:33-04:00] https://www.businessinsider.com/tech: Scraping ad 3 of 12
+[INFO 2024-04-22T16:35:38-04:00] https://www.businessinsider.com/tech: Clicking on ad 453
+[INFO 2024-04-22T16:35:38-04:00] https://www.businessinsider.com/tech: Scraping ad 4 of 12
+[INFO 2024-04-22T16:35:44-04:00] https://www.businessinsider.com/tech: Clicking on ad 454
+[INFO 2024-04-22T16:35:44-04:00] https://www.businessinsider.com/tech: Scraping ad 5 of 12
+[INFO 2024-04-22T16:35:49-04:00] https://www.businessinsider.com/tech: Clicking on ad 455
+[INFO 2024-04-22T16:35:49-04:00] https://www.businessinsider.com/tech: Scraping ad 6 of 12
+[INFO 2024-04-22T16:35:54-04:00] https://www.businessinsider.com/tech: Clicking on ad 456
+[INFO 2024-04-22T16:35:54-04:00] https://www.businessinsider.com/tech: Scraping ad 7 of 12
+[INFO 2024-04-22T16:36:00-04:00] https://www.businessinsider.com/tech: Clicking on ad 457
+[INFO 2024-04-22T16:36:00-04:00] https://www.businessinsider.com/tech: Scraping ad 8 of 12
+[WARNING 2024-04-22T16:36:05-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:36:05-04:00] https://www.businessinsider.com/tech: Scraping ad 9 of 12
+[INFO 2024-04-22T16:36:10-04:00] https://www.businessinsider.com/tech: Clicking on ad 459
+[INFO 2024-04-22T16:36:10-04:00] https://www.businessinsider.com/tech: Scraping ad 10 of 12
+[WARNING 2024-04-22T16:36:15-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:36:15-04:00] https://www.businessinsider.com/tech: Scraping ad 11 of 12
+[INFO 2024-04-22T16:36:20-04:00] https://www.businessinsider.com/tech: Clicking on ad 461
+[INFO 2024-04-22T16:36:20-04:00] https://www.businessinsider.com/tech: Scraping ad 12 of 12
+[INFO 2024-04-22T16:36:26-04:00] https://www.businessinsider.com/tech: Clicking on ad 462
+[INFO 2024-04-22T16:36:31-04:00] https://www.nytimes.com: Loading page
+[INFO 2024-04-22T16:36:42-04:00] https://www.nytimes.com: Page finished loading
+[INFO 2024-04-22T16:36:42-04:00] https://www.nytimes.com/: Scrolling page from top to bottom
+[INFO 2024-04-22T16:37:13-04:00] https://www.nytimes.com/: Scraping page
+[INFO 2024-04-22T16:37:19-04:00] https://www.nytimes.com/: 9 ads identified
+[INFO 2024-04-22T16:37:19-04:00] https://www.nytimes.com/: Scraping ad 1 of 9
+[WARNING 2024-04-22T16:37:24-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:37:24-04:00] https://www.nytimes.com/: Scraping ad 2 of 9
+[WARNING 2024-04-22T16:37:29-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:37:29-04:00] https://www.nytimes.com/: Scraping ad 3 of 9
+[WARNING 2024-04-22T16:37:35-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:37:35-04:00] https://www.nytimes.com/: Scraping ad 4 of 9
+[WARNING 2024-04-22T16:37:40-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:37:40-04:00] https://www.nytimes.com/: Scraping ad 5 of 9
+[WARNING 2024-04-22T16:37:45-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:37:45-04:00] https://www.nytimes.com/: Scraping ad 6 of 9
+[WARNING 2024-04-22T16:37:50-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:37:50-04:00] https://www.nytimes.com/: Scraping ad 7 of 9
+[WARNING 2024-04-22T16:37:55-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:37:55-04:00] https://www.nytimes.com/: Scraping ad 8 of 9
+[WARNING 2024-04-22T16:38:00-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:38:00-04:00] https://www.nytimes.com/: Scraping ad 9 of 9
+[WARNING 2024-04-22T16:38:05-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-22T16:38:05-04:00] https://www.nytimes.com/: Finding random page with ads on it
+[INFO 2024-04-22T16:38:09-04:00] https://www.nytimes.com/section/opinion/environment: Loading page
+[INFO 2024-04-22T16:38:20-04:00] https://www.nytimes.com/section/opinion/environment: Page finished loading
+[INFO 2024-04-22T16:38:20-04:00] https://www.nytimes.com/section/opinion/environment: Scrolling page from top to bottom
+[INFO 2024-04-22T16:38:35-04:00] https://www.nytimes.com/section/opinion/environment?page=3: Scraping page
+[INFO 2024-04-22T16:38:39-04:00] https://www.nytimes.com/section/opinion/environment?page=3: 5 ads identified
+[INFO 2024-04-22T16:38:39-04:00] https://www.nytimes.com/section/opinion/environment?page=3: Scraping ad 1 of 5
+[WARNING 2024-04-22T16:38:44-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:38:44-04:00] https://www.nytimes.com/section/opinion/environment?page=3: Scraping ad 2 of 5
+[INFO 2024-04-22T16:38:50-04:00] https://www.nytimes.com/section/opinion/environment?page=3: Clicking on ad 473
+[INFO 2024-04-22T16:38:50-04:00] https://www.nytimes.com/section/opinion/environment?page=3: Scraping ad 3 of 5
+[WARNING 2024-04-22T16:38:55-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-22T16:38:55-04:00] https://www.nytimes.com/section/opinion/environment?page=3: Scraping ad 4 of 5
+[INFO 2024-04-22T16:39:00-04:00] https://www.nytimes.com/section/opinion/environment: Clicking on ad 475
+[INFO 2024-04-22T16:39:00-04:00] https://www.nytimes.com/section/opinion/environment: Scraping ad 5 of 5
+[INFO 2024-04-22T16:39:05-04:00] https://www.nytimes.com/section/opinion/environment: Clicking on ad 476

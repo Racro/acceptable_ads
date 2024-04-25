@@ -1,0 +1,89 @@
+[INFO 2024-04-18T20:00:41-04:00] Postgres driver initialized
+[INFO 2024-04-18T20:00:41-04:00] Launching browser...
+[INFO 2024-04-18T20:00:42-04:00] Running Chrome/119.0.6045.105
+[INFO 2024-04-18T20:00:42-04:00] https://www.mrdonn.org: Loading page
+[INFO 2024-04-18T20:00:55-04:00] https://www.mrdonn.org: Page finished loading
+[INFO 2024-04-18T20:00:55-04:00] https://www.mrdonn.org/: Scrolling page from top to bottom
+[INFO 2024-04-18T20:01:13-04:00] https://www.mrdonn.org/: Scraping page
+[INFO 2024-04-18T20:01:16-04:00] https://www.mrdonn.org/: 14 ads identified
+[INFO 2024-04-18T20:01:16-04:00] https://www.mrdonn.org/: Scraping ad 1 of 14
+[WARNING 2024-04-18T20:01:21-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-18T20:01:21-04:00] https://www.mrdonn.org/: Scraping ad 2 of 14
+[INFO 2024-04-18T20:01:27-04:00] https://www.mrdonn.org/: Clicking on ad 282
+[INFO 2024-04-18T20:01:38-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI2afau_zMhQMVLrfRBB1MfQvbEAEYASAAEgIJj_D_BwE: Scraping page
+[INFO 2024-04-18T20:01:38-04:00] https://www.mrdonn.org/: Scraping ad 3 of 14
+[INFO 2024-04-18T20:01:44-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 283
+[INFO 2024-04-18T20:01:55-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI75GYu_zMhQMVcIp3AR1jDwjUEAEYASAAEgJbc_D_BwE: Scraping page
+[INFO 2024-04-18T20:01:55-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 4 of 14
+[INFO 2024-04-18T20:02:01-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 284
+[INFO 2024-04-18T20:02:11-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI75GYu_zMhQMVcIp3AR1jDwjUEAEYASAAEgJbc_D_BwE: Scraping page
+[INFO 2024-04-18T20:02:12-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 5 of 14
+[INFO 2024-04-18T20:02:17-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 285
+[WARNING 2024-04-18T20:02:27-04:00] Couldn't click ad: Error: https://www.mrdonn.org/#google_vignette: Ad click timed out - 10000ms
+[INFO 2024-04-18T20:02:27-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 6 of 14
+[INFO 2024-04-18T20:02:33-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 286
+[INFO 2024-04-18T20:02:43-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI75GYu_zMhQMVcIp3AR1jDwjUEAEYASAAEgJbc_D_BwE: Scraping page
+[INFO 2024-04-18T20:02:44-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 7 of 14
+[INFO 2024-04-18T20:02:49-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 287
+[INFO 2024-04-18T20:03:00-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI75GYu_zMhQMVcIp3AR1jDwjUEAEYASAAEgJbc_D_BwE: Scraping page
+[INFO 2024-04-18T20:03:01-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 8 of 14
+[WARNING 2024-04-18T20:03:06-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:03:06-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 9 of 14
+[WARNING 2024-04-18T20:03:11-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:03:11-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 10 of 14
+[WARNING 2024-04-18T20:03:16-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:03:16-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 11 of 14
+[WARNING 2024-04-18T20:03:21-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:03:21-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 12 of 14
+[INFO 2024-04-18T20:03:26-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 292
+[WARNING 2024-04-18T20:03:36-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-18T20:03:36-04:00] https://www.mrdonn.org/: Scraping ad 13 of 14
+[WARNING 2024-04-18T20:03:41-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:03:41-04:00] https://www.mrdonn.org/: Scraping ad 14 of 14
+[INFO 2024-04-18T20:03:46-04:00] https://www.mrdonn.org/: Clicking on ad 294
+[WARNING 2024-04-18T20:03:56-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-18T20:03:56-04:00] https://www.mrdonn.org/: Finding random page with ads on it
+[INFO 2024-04-18T20:04:01-04:00] https://www.mrdonn.org/: Loading page
+[INFO 2024-04-18T20:04:13-04:00] https://www.mrdonn.org/: Page finished loading
+[INFO 2024-04-18T20:04:13-04:00] https://www.mrdonn.org/: Scrolling page from top to bottom
+[INFO 2024-04-18T20:04:29-04:00] https://www.mrdonn.org/: Scraping page
+[INFO 2024-04-18T20:04:32-04:00] https://www.mrdonn.org/: 14 ads identified
+[INFO 2024-04-18T20:04:32-04:00] https://www.mrdonn.org/: Scraping ad 1 of 14
+[WARNING 2024-04-18T20:04:37-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-04-18T20:04:37-04:00] https://www.mrdonn.org/: Scraping ad 2 of 14
+[INFO 2024-04-18T20:04:42-04:00] https://www.mrdonn.org/: Clicking on ad 296
+[INFO 2024-04-18T20:04:53-04:00] https://www.adaptedmind.com/Math-Worksheets.html?utm_medium=cpc&utm_source=google&campaignid=1397207938&campaign_type=display&placement=d&utm_content=&adid=682533801336&adset_id=55223770476&utm_term=1st%20grade%20games&ad_position=&device=c&gclid=EAIaIQobChMI3tq7mv3MhQMVTANPCB29AwODEAEYASAAEgKr__D_BwE: Scraping page
+[INFO 2024-04-18T20:04:54-04:00] https://www.mrdonn.org/: Scraping ad 3 of 14
+[INFO 2024-04-18T20:04:59-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 297
+[INFO 2024-04-18T20:05:10-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI0Jjfmf3MhQMV7LzRBB1NBA6zEAEYASAAEgLDBfD_BwE: Scraping page
+[INFO 2024-04-18T20:05:11-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 4 of 14
+[INFO 2024-04-18T20:05:16-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 298
+[INFO 2024-04-18T20:05:26-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI0Jjfmf3MhQMV7LzRBB1NBA6zEAEYASAAEgLDBfD_BwE: Scraping page
+[INFO 2024-04-18T20:05:27-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 5 of 14
+[INFO 2024-04-18T20:05:32-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 299
+[WARNING 2024-04-18T20:05:42-04:00] Couldn't click ad: Error: https://www.mrdonn.org/#google_vignette: Ad click timed out - 10000ms
+[INFO 2024-04-18T20:05:42-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 6 of 14
+[INFO 2024-04-18T20:05:48-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 300
+[INFO 2024-04-18T20:05:58-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI0Jjfmf3MhQMV7LzRBB1NBA6zEAEYASAAEgLDBfD_BwE: Scraping page
+[INFO 2024-04-18T20:05:59-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 7 of 14
+[INFO 2024-04-18T20:06:04-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 301
+[INFO 2024-04-18T20:06:15-04:00] https://iwitness.usc.edu/sites/willesdenproject?utm_source=Google&utm_medium=cpc&utm_campaign=Displayutm_source%3DGoogle&gclid=EAIaIQobChMI0Jjfmf3MhQMV7LzRBB1NBA6zEAEYASAAEgLDBfD_BwE: Scraping page
+[INFO 2024-04-18T20:06:16-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 8 of 14
+[WARNING 2024-04-18T20:06:21-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:06:21-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 9 of 14
+[WARNING 2024-04-18T20:06:26-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:06:26-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 10 of 14
+[WARNING 2024-04-18T20:06:31-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:06:31-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 11 of 14
+[WARNING 2024-04-18T20:06:36-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:06:36-04:00] https://www.mrdonn.org/#google_vignette: Scraping ad 12 of 14
+[INFO 2024-04-18T20:06:41-04:00] https://www.mrdonn.org/#google_vignette: Clicking on ad 306
+[WARNING 2024-04-18T20:06:51-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-18T20:06:51-04:00] https://www.mrdonn.org/: Scraping ad 13 of 14
+[WARNING 2024-04-18T20:06:56-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-04-18T20:06:56-04:00] https://www.mrdonn.org/: Scraping ad 14 of 14
+[INFO 2024-04-18T20:07:01-04:00] https://www.mrdonn.org/: Clicking on ad 308
+[WARNING 2024-04-18T20:07:11-04:00] Couldn't click ad: Error: https://www.mrdonn.org/: Ad click timed out - 10000ms
+[INFO 2024-04-18T20:07:12-04:00] https://www.businessinsider.com: Loading page
+[INFO 2024-04-18T20:07:22-04:00] https://www.businessinsider.com: Page finished loading
+[INFO 2024-04-18T20:07:22-04:00] https://www.businessinsider.com/: Scrolling page from top to bottom
