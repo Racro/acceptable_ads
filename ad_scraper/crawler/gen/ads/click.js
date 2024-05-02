@@ -78,6 +78,10 @@ export function clickAd(ad, page, adId, pageId, crawlListUrl) {
                         // Save the ad URL in the database.
                         let db = DbClient.getInstance();
                         await db.postgres.query('UPDATE ad SET url=$2 WHERE id=$1', [adId, req.url()]);
+
+                        // Ritik
+                        console.log(`req.url(): ${req.url()}`);
+
                         if (FLAGS.scrapeOptions.clickAds == 'clickAndBlockLoad') {
                             // If blocking ads from loading, clean up the tab and continue.
                             log.verbose(`${page.url()} Intercepted and blocked ad (navigation): ${req.url()}`);
@@ -93,7 +97,6 @@ export function clickAd(ad, page, adId, pageId, crawlListUrl) {
                             try {
                                 ctPage = newPage;
                                 log.debug(`${newPage.url()}: Loading and scraping popup page`);
-                                console.log('22222\n');
                                 await newPage.goto(req.url(), { referer: req.headers().referer });
                                 await sleep(PAGE_SLEEP_TIME);
                                 await scrapePage(newPage, {
@@ -170,6 +173,10 @@ export function clickAd(ad, page, adId, pageId, crawlListUrl) {
                         // Save the ad URL in the database.
                         let db = DbClient.getInstance();
                         await db.postgres.query('UPDATE ad SET url=$2 WHERE id=$1', [adId, request.url]);
+
+                        // Ritik
+                        console.log(`request.url(): ${request.url}`);
+                        
                         log.debug(`${page.url()}: Saved ad URL for ad ${adId}`);
                         if (FLAGS.scrapeOptions.clickAds == 'clickAndBlockLoad') {
                             clearTimeout(clickTimeout);

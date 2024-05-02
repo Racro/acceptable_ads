@@ -118,7 +118,8 @@ export async function crawl(flags) {
     log.info('Launching browser...');
     puppeteerExtra.default.use(StealthPlugin());
     globalThis.BROWSER = await puppeteerExtra.default.launch({
-        args: ['--disable-dev-shm-usage'],
+        args: ['--disable-dev-shm-usage', '--start-maximized'], // Ritik
+        // defaultViewport: null, // Ritik
         defaultViewport: VIEWPORT,
         headless: FLAGS.chromeOptions.headless,
         handleSIGINT: false,
