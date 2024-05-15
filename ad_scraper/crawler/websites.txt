@@ -1,5 +1,4 @@
-https://www.google.com
-https://www.geeksforgeeks.com
+https://www.geeksforgeeks.org/python-programming-language/?ref=outind
 https://www.mrdonn.org
 https://www.businessinsider.com
 https://www.nytimes.com

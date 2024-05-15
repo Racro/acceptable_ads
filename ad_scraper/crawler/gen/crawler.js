@@ -67,6 +67,7 @@ export async function crawl(flags) {
     let i = 1;
     for (let url of crawlList) {
         try {
+            // url = 'http://' + url;
             new URL(url);
         }
         catch (e) {
@@ -116,15 +117,38 @@ export async function crawl(flags) {
     }
     // Open browser
     log.info('Launching browser...');
+    
+    // Ritik
+    var p_args;
+    if (FLAGS.chromeOptions.extnPath === 'control'){
+        p_args = [
+            '--disable-dev-shm-usage', 
+            '--start-maximized',
+            '--disable-extensions-except=./extn_src/consent',
+            '--load-extension=./extn_src/consent'
+        ];
+    }
+    else{
+        p_args= [
+            '--disable-dev-shm-usage', 
+            '--start-maximized',
+            `--disable-extensions-except=./extn_src/${FLAGS.chromeOptions.extnPath},./extn_src/consent`,
+            `--load-extension=./extn_src/${FLAGS.chromeOptions.extnPath}, ./extn_src/consent`
+        ];
+    }
+    // console.log(FLAGS.chromeOptions.executablePath);
+
     puppeteerExtra.default.use(StealthPlugin());
     globalThis.BROWSER = await puppeteerExtra.default.launch({
-        args: ['--disable-dev-shm-usage', '--start-maximized'], // Ritik
+        args: p_args, // Ritik
         // defaultViewport: null, // Ritik
         defaultViewport: VIEWPORT,
         headless: FLAGS.chromeOptions.headless,
         handleSIGINT: false,
-        userDataDir: FLAGS.chromeOptions.profileDir,
+        userDataDir: FLAGS.chromeOptions.profileDir
+        ,
         executablePath: FLAGS.chromeOptions.executablePath
+        // executablePath: '/usr/bin/google-chrome'
     });
     process.on('SIGINT', async () => {
         console.log('SIGINT received, closing browser...');
@@ -133,13 +157,21 @@ export async function crawl(flags) {
     });
     const version = await BROWSER.version();
     log.info('Running ' + version);
+
+    // Ritik 
+    if (FLAGS.chromeOptions.extnPath === 'adblock'){
+        await sleep(10000);
+    } else {
+        await sleep(2000);
+    }
+
     try {
         // Main loop through crawl list
         for (let i = crawlListStartingIndex; i < crawlList.length; i++) {
             const url = crawlList[i];
             
             // Ritik
-            await sleep(5000);
+            // await sleep(5000);
             var url_key = "";
             // extract url_key to name screenshot folders 
             let pattern = /:\/\/(ww[\w\d]\.?)/;
@@ -153,6 +185,7 @@ export async function crawl(flags) {
             if (url_key == ""){
                 continue;
             }
+            url_key = url_key.split('/')[0]
             FLAGS['dir_path'] = url_key;
 
             let prevAdId = FLAGS.crawlListHasReferrerAds ? crawlListAdIds[i] : -1;

@@ -14,9 +14,17 @@ export async function scrapeAdsOnPage(page, metadata) {
     const db = DbClient.getInstance();
     // Detect ads
     const ads = await identifyAdsInDOM(page);
+    console.log('debug');
+    console.log(ads);
+
     const adHandleToAdId = new Map();
     log.info(`${page.url()}: ${ads.size} ads identified`);
     let i = 1;
+
+    // Ritik
+    var url_dict = {}; // store landing URLs of ads
+    var ad_dimension = {}; // store coordinates of ads
+
     // Main loop through all ads on page
     for (let ad of ads) {
         log.info(`${page.url()}: Scraping ad ${i} of ${ads.size}`);
@@ -55,7 +63,7 @@ export async function scrapeAdsOnPage(page, metadata) {
                     crawlListUrl: metadata.crawlListUrl,
                     chumboxId: chumboxId,
                     platform: platform
-                });
+                }, ad_dimension);
                 adHandleToAdId.set(ad, adId);
             }
             catch (e) {
@@ -76,7 +84,7 @@ export async function scrapeAdsOnPage(page, metadata) {
                         continue;
                     }
                     // Ok, we're cleared to click.
-                    await clickAd(adHandle.clickTarget, page, adId, metadata.parentPageId, metadata.crawlListUrl);
+                    await clickAd(adHandle.clickTarget, page, adId, metadata.parentPageId, metadata.crawlListUrl, url_dict);
                 }
             }
             catch (e) {
@@ -94,6 +102,38 @@ export async function scrapeAdsOnPage(page, metadata) {
     //     });
     //   }
     // }
+
+    // Ritik
+    // const fs = require("fs");
+    const adsDir = path.join(await getCrawlOutputDirectory(), FLAGS.dir_path);
+    if (!fs.existsSync(adsDir)) {
+        fs.mkdirSync(adsDir, { recursive: true });
+    }
+ 
+    try{
+        fs.writeFile(
+            `${adsDir}/ad_url.json`,
+            JSON.stringify(url_dict),
+            err => {
+                // Checking for errors 
+                if (err) throw err;
+
+                // Success 
+                console.log("Done writing ad_url");
+            });
+        fs.writeFile(
+            `${adsDir}/ad_dimension.json`,
+            JSON.stringify(ad_dimension),
+            err => {
+                // Checking for errors 
+                if (err) throw err;
+
+                // Success 
+                console.log("Done writing ad_dimension");
+            });
+    } catch (err){
+        console.error('Error writing to file:', err);
+    }
 }
 /**
  * Scrapes the content and takes a screenshot of an ad embedded in a page,
@@ -104,7 +144,8 @@ export async function scrapeAdsOnPage(page, metadata) {
  * @returns Promise containing the database id of the scraped ad, once it is
  * done crawling/saving.
  */
-export async function scrapeAd(ad, page, metadata) {
+// export async function scrapeAd(ad, page, metadata)
+export async function scrapeAd(ad, page, metadata, ad_dimension) {  // Ritik
     const db = DbClient.getInstance();
     let [timeout, timeoutId] = createAsyncTimeout(`${page.url()}: timed out while crawling ad`, AD_CRAWL_TIMEOUT);
     // Declare adId here - we create an empty row in the database before
@@ -127,7 +168,7 @@ export async function scrapeAd(ad, page, metadata) {
                 fs.mkdirSync(adsDir, { recursive: true });
             }
             // Scrape ad content
-            const adContent = await scrapeAdContent(page, ad, adsDir, FLAGS.crawlerHostname, FLAGS.scrapeOptions.screenshotAdsWithContext, adId);
+            const adContent = await scrapeAdContent(page, ad, adsDir, FLAGS.crawlerHostname, FLAGS.scrapeOptions.screenshotAdsWithContext, adId, ad_dimension);
             await db.updateAd(adId, {
                 job_id: FLAGS.jobId,
                 crawl_id: CRAWL_ID,
@@ -190,7 +231,8 @@ export async function scrapeAd(ad, page, metadata) {
 */
 async function scrapeAdContent(page, ad, screenshotDir, 
 // externalScreenshotDir: string | undefined,
-screenshotHost, withContext, adId) {
+// screenshotHost, withContext, adId) {
+screenshotHost, withContext, adId, ad_dimension) { // Ritik
     // Collect the HTML content
     const html = await page.evaluate((e) => e.outerHTML, ad);
     const screenshotFile = (adId ? 'ad_' + adId : uuidv4()) + '.webp';
@@ -215,12 +257,17 @@ screenshotHost, withContext, adId) {
         throw new Error('Page has no viewport');
     }
     // Round the bounding box values in case they are non-integers
+    var d = new Date();
     let adBB = {
         left: Math.max(0, Math.floor(abb.x)),
         top: Math.max(0, Math.floor(abb.y)),
         height: Math.ceil(abb.height),
-        width: Math.ceil(abb.width)
+        width: Math.ceil(abb.width),
+        time: d.toString()
     };
+
+    ad_dimension[adId] = adBB;
+
     // Compute bounding box if a margin is desired
     const margin = 150;
     const contextLeft = Math.max(adBB.left - margin, 0);

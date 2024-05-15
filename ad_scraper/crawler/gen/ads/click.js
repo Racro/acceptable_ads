@@ -13,7 +13,9 @@ import { sleep } from "../util/timeout.js";
  * @returns Promise that resolves when crawling is complete for the linked page,
  * and any sub pages opened by clicking on ads in the linked page.
  */
-export function clickAd(ad, page, adId, pageId, crawlListUrl) {
+// export function clickAd(ad, page, adId, pageId, crawlListUrl) {
+// Ritik (url_dict - file descriptor of JSON saving Ad URLs)
+export function clickAd(ad, page, adId, pageId, crawlListUrl, url_dict) {
     return new Promise(async (resolve, reject) => {
         // Create references to event listeners, so that we can remove them in the
         // catch block if this part crashes.
@@ -80,7 +82,8 @@ export function clickAd(ad, page, adId, pageId, crawlListUrl) {
                         await db.postgres.query('UPDATE ad SET url=$2 WHERE id=$1', [adId, req.url()]);
 
                         // Ritik
-                        console.log(`req.url(): ${req.url()}`);
+                        // console.log(`req.url(): ${req.url()}`);
+                        url_dict[adId] = req.url();
 
                         if (FLAGS.scrapeOptions.clickAds == 'clickAndBlockLoad') {
                             // If blocking ads from loading, clean up the tab and continue.
@@ -175,7 +178,8 @@ export function clickAd(ad, page, adId, pageId, crawlListUrl) {
                         await db.postgres.query('UPDATE ad SET url=$2 WHERE id=$1', [adId, request.url]);
 
                         // Ritik
-                        console.log(`request.url(): ${request.url}`);
+                        // console.log(`request.url(): ${request.url}`);
+                        url_dict[adId] = request.url;
                         
                         log.debug(`${page.url()}: Saved ad URL for ad ${adId}`);
                         if (FLAGS.scrapeOptions.clickAds == 'clickAndBlockLoad') {
