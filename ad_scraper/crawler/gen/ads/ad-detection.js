@@ -25,25 +25,25 @@ export async function identifyAdsInDOM(page) {
             // Remove all elements that are children of another element in the set.
             // We just want the top-most element identified as an ad.
             
-            // for (let ad of ads) {
-            //     // For each element in the set, traverse up until it hits <body>, or another
-            //     // element in the set.
-            //     let removed = false;
-            //     let current = ad;
-            //     while (current !== document.body && current.parentNode !== null) {
-            //         current = current.parentNode;
-            //         for (let otherAd of ads) {
-            //             if (current === otherAd) {
-            //                 ads.delete(ad);
-            //                 removed = true;
-            //                 break;
-            //             }
-            //         }
-            //         if (removed) {
-            //             break;
-            //         }
-            //     }
-            // }
+            for (let ad of ads) {
+                // For each element in the set, traverse up until it hits <body>, or another
+                // element in the set.
+                let removed = false;
+                let current = ad;
+                while (current !== document.body && current.parentNode !== null) {
+                    current = current.parentNode;
+                    for (let otherAd of ads) {
+                        if (current === otherAd) {
+                            ads.delete(ad);
+                            removed = true;
+                            break;
+                        }
+                    }
+                    if (removed) {
+                        break;
+                    }
+                }
+            }
 
             return Array.from(ads);
         }

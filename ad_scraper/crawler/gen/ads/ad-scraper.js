@@ -14,8 +14,8 @@ export async function scrapeAdsOnPage(page, metadata) {
     const db = DbClient.getInstance();
     // Detect ads
     const ads = await identifyAdsInDOM(page);
-    console.log('debug');
-    console.log(ads);
+    // console.log('debug');
+    // console.log(ads);
 
     const adHandleToAdId = new Map();
     log.info(`${page.url()}: ${ads.size} ads identified`);
