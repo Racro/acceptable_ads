@@ -166,7 +166,7 @@ export async function crawl(flags) {
     }
 
     try {
-        const test = await browser.newPage();
+        const test = await BROWSER.newPage();
         await test.setViewport({ width: 1280, height: 720 });
         await test.goto('chrome://extensions', { timeout: 120000 });
         await test.screenshot({
