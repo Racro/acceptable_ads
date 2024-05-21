@@ -170,8 +170,9 @@ export async function crawl(flags) {
         await page.screenshot({
             path: 'out/extension_verification.jpg'
         });
-    } catch {
-
+    } catch (e) {
+        await BROWSER.close();
+        throw e;
     };
 
     try {
