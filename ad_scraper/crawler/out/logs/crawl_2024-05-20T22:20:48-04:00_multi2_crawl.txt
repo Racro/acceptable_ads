@@ -1,0 +1,53 @@
+[INFO 2024-05-20T22:20:48-04:00] Postgres driver initialized
+[INFO 2024-05-20T22:20:48-04:00] Launching browser...
+[INFO 2024-05-20T22:20:48-04:00] Running Chrome/124.0.6367.201
+[INFO 2024-05-20T22:20:50-04:00] http://www.religionnews.com: Loading page
+[ERROR 2024-05-20T22:22:50-04:00] Navigation timeout of 120000 ms exceeded
+TimeoutError: Navigation timeout of 120000 ms exceeded
+    at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/LifecycleWatcher.ts:240:12)
+[ERROR 2024-05-20T22:22:50-04:00] Navigation timeout of 120000 ms exceeded
+TimeoutError: Navigation timeout of 120000 ms exceeded
+    at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/LifecycleWatcher.ts:240:12)
+[INFO 2024-05-20T22:22:51-04:00] http://www.novelfull.com: Loading page
+[INFO 2024-05-20T22:23:01-04:00] http://www.novelfull.com: Page finished loading
+[INFO 2024-05-20T22:23:01-04:00] https://novelfull.com/: Scrolling page from top to bottom
+[INFO 2024-05-20T22:23:11-04:00] https://novelfull.com/: Scraping page
+[INFO 2024-05-20T22:23:13-04:00] https://novelfull.com/: 0 ads identified
+[INFO 2024-05-20T22:23:13-04:00] http://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Loading page
+[INFO 2024-05-20T22:23:25-04:00] http://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Page finished loading
+[INFO 2024-05-20T22:23:25-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scrolling page from top to bottom
+[INFO 2024-05-20T22:23:49-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping page
+[INFO 2024-05-20T22:23:51-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: 4 ads identified
+[INFO 2024-05-20T22:23:51-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 1 of 4
+[WARNING 2024-05-20T22:23:56-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:23:56-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 2 of 4
+[WARNING 2024-05-20T22:24:01-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:24:01-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 3 of 4
+[WARNING 2024-05-20T22:24:06-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:24:06-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 4 of 4
+[WARNING 2024-05-20T22:24:11-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:24:11-04:00] http://www.wired2fish.com: Loading page
+[INFO 2024-05-20T22:24:22-04:00] http://www.wired2fish.com: Page finished loading
+[INFO 2024-05-20T22:24:22-04:00] https://www.wired2fish.com/: Scrolling page from top to bottom
+[ERROR 2024-05-20T22:24:22-04:00] Cannot read properties of null (reading 'scrollHeight')
+TypeError: Cannot read properties of null (reading 'scrollHeight')
+    at evaluate (evaluate at scrollDownPage (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/gen/crawler.js:360:35), <anonymous>:0:21)
+    at ExecutionContext._ExecutionContext_evaluate (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/ExecutionContext.ts:334:34)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ExecutionContext.evaluate (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/ExecutionContext.ts:189:12)
+    at scrollDownPage (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/gen/crawler.js:360:24)
+    at loadAndHandlePage (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/src/crawler.ts:393:3)
+    at file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/src/crawler.ts:265:27
+    at Module.crawl (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/src/crawler.ts:326:7)
+    at file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/gen/crawler-cli.js:303:9
+[ERROR 2024-05-20T22:24:22-04:00] Cannot read properties of null (reading 'scrollHeight')
+TypeError: Cannot read properties of null (reading 'scrollHeight')
+    at evaluate (evaluate at scrollDownPage (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/gen/crawler.js:360:35), <anonymous>:0:21)
+    at ExecutionContext._ExecutionContext_evaluate (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/ExecutionContext.ts:334:34)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ExecutionContext.evaluate (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/ExecutionContext.ts:189:12)
+    at scrollDownPage (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/gen/crawler.js:360:24)
+    at loadAndHandlePage (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/src/crawler.ts:393:3)
+    at file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/src/crawler.ts:265:27
+    at Module.crawl (file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/src/crawler.ts:326:7)
+    at file:///home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/gen/crawler-cli.js:303:9

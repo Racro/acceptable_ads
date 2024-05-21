@@ -1,0 +1,77 @@
+[INFO 2024-05-20T22:47:14-04:00] Postgres driver initialized
+[INFO 2024-05-20T22:47:14-04:00] Launching browser...
+[INFO 2024-05-20T22:47:14-04:00] Running Chrome/124.0.6367.201
+[INFO 2024-05-20T22:47:16-04:00] http://www.religionnews.com: Loading page
+[ERROR 2024-05-20T22:49:16-04:00] Navigation timeout of 120000 ms exceeded
+TimeoutError: Navigation timeout of 120000 ms exceeded
+    at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/LifecycleWatcher.ts:240:12)
+[ERROR 2024-05-20T22:49:16-04:00] Navigation timeout of 120000 ms exceeded
+TimeoutError: Navigation timeout of 120000 ms exceeded
+    at LifecycleWatcher._LifecycleWatcher_createTimeoutPromise (/home/ritik/work/pes/acceptable_ads/ad_scraper/crawler/node_modules/puppeteer/node_modules/puppeteer-core/src/common/LifecycleWatcher.ts:240:12)
+[INFO 2024-05-20T22:49:17-04:00] http://www.religionnews.com/category/opinion/columns/faithfully-feminist/: Loading page
+[INFO 2024-05-20T22:49:30-04:00] http://www.religionnews.com/category/opinion/columns/faithfully-feminist/: Page finished loading
+[INFO 2024-05-20T22:49:30-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Scrolling page from top to bottom
+[INFO 2024-05-20T22:49:58-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Scraping page
+[INFO 2024-05-20T22:50:00-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: 1 ads identified
+[INFO 2024-05-20T22:50:00-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Scraping ad 1 of 1
+[INFO 2024-05-20T22:50:05-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Clicking on ad 1346
+[WARNING 2024-05-20T22:50:15-04:00] Couldn't click ad: Error: https://religionnews.com/category/opinion/columns/faithfully-feminist/: Ad click timed out - 10000ms
+[INFO 2024-05-20T22:50:15-04:00] http://www.novelfull.com: Loading page
+[INFO 2024-05-20T22:50:26-04:00] http://www.novelfull.com: Page finished loading
+[INFO 2024-05-20T22:50:26-04:00] https://novelfull.com/: Scrolling page from top to bottom
+[INFO 2024-05-20T22:50:36-04:00] https://novelfull.com/: Scraping page
+[INFO 2024-05-20T22:50:37-04:00] https://novelfull.com/: 0 ads identified
+[INFO 2024-05-20T22:50:37-04:00] http://www.novelfull.com/latest-release-novel: Loading page
+[INFO 2024-05-20T22:50:48-04:00] http://www.novelfull.com/latest-release-novel: Page finished loading
+[INFO 2024-05-20T22:50:48-04:00] https://novelfull.com/latest-release-novel: Scrolling page from top to bottom
+[INFO 2024-05-20T22:50:57-04:00] https://novelfull.com/latest-release-novel: Scraping page
+[INFO 2024-05-20T22:50:58-04:00] https://novelfull.com/latest-release-novel: 0 ads identified
+[INFO 2024-05-20T22:50:58-04:00] http://www.boursorama.com: Loading page
+[INFO 2024-05-20T22:51:10-04:00] http://www.boursorama.com: Page finished loading
+[INFO 2024-05-20T22:51:10-04:00] https://www.boursorama.com/: Scrolling page from top to bottom
+[INFO 2024-05-20T22:51:56-04:00] https://www.boursorama.com/: Scraping page
+[INFO 2024-05-20T22:52:01-04:00] https://www.boursorama.com/: 13 ads identified
+[INFO 2024-05-20T22:52:01-04:00] https://www.boursorama.com/: Scraping ad 1 of 13
+[WARNING 2024-05-20T22:52:06-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:06-04:00] https://www.boursorama.com/: Scraping ad 2 of 13
+[WARNING 2024-05-20T22:52:11-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:52:11-04:00] https://www.boursorama.com/: Scraping ad 3 of 13
+[WARNING 2024-05-20T22:52:16-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:52:16-04:00] https://www.boursorama.com/: Scraping ad 4 of 13
+[WARNING 2024-05-20T22:52:21-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:52:21-04:00] https://www.boursorama.com/: Scraping ad 5 of 13
+[WARNING 2024-05-20T22:52:26-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:26-04:00] https://www.boursorama.com/: Scraping ad 6 of 13
+[WARNING 2024-05-20T22:52:31-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:31-04:00] https://www.boursorama.com/: Scraping ad 7 of 13
+[WARNING 2024-05-20T22:52:36-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:36-04:00] https://www.boursorama.com/: Scraping ad 8 of 13
+[WARNING 2024-05-20T22:52:41-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:41-04:00] https://www.boursorama.com/: Scraping ad 9 of 13
+[WARNING 2024-05-20T22:52:46-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:46-04:00] https://www.boursorama.com/: Scraping ad 10 of 13
+[WARNING 2024-05-20T22:52:51-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:51-04:00] https://www.boursorama.com/: Scraping ad 11 of 13
+[WARNING 2024-05-20T22:52:56-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:52:56-04:00] https://www.boursorama.com/: Scraping ad 12 of 13
+[WARNING 2024-05-20T22:53:01-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:53:01-04:00] https://www.boursorama.com/: Scraping ad 13 of 13
+[WARNING 2024-05-20T22:53:06-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:53:06-04:00] http://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Loading page
+[INFO 2024-05-20T22:53:18-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scrolling page from top to bottom
+[INFO 2024-05-20T22:53:18-04:00] http://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Page finished loading
+[INFO 2024-05-20T22:53:41-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping page
+[INFO 2024-05-20T22:53:43-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: 4 ads identified
+[INFO 2024-05-20T22:53:43-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 1 of 4
+[WARNING 2024-05-20T22:53:48-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:53:48-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 2 of 4
+[WARNING 2024-05-20T22:53:53-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:53:53-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 3 of 4
+[WARNING 2024-05-20T22:53:58-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:53:58-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 4 of 4
+[WARNING 2024-05-20T22:54:03-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:54:03-04:00] http://www.wired2fish.com: Loading page
+[INFO 2024-05-20T22:54:14-04:00] http://www.wired2fish.com: Page finished loading
+[INFO 2024-05-20T22:54:14-04:00] https://www.wired2fish.com/: Scrolling page from top to bottom
+[INFO 2024-05-20T22:55:00-04:00] https://www.wired2fish.com/: Scraping page
+[INFO 2024-05-20T22:55:00-04:00] https://www.wired2fish.com/: 0 ads identified

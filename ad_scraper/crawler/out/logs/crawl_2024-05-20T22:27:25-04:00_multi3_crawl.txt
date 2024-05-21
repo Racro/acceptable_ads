@@ -1,0 +1,28 @@
+[INFO 2024-05-20T22:27:25-04:00] Postgres driver initialized
+[INFO 2024-05-20T22:27:25-04:00] Launching browser...
+[INFO 2024-05-20T22:27:25-04:00] Running Chrome/124.0.6367.201
+[INFO 2024-05-20T22:27:27-04:00] http://www.religionnews.com/category/opinion/columns/faithfully-feminist/: Loading page
+[INFO 2024-05-20T22:28:04-04:00] http://www.religionnews.com/category/opinion/columns/faithfully-feminist/: Page finished loading
+[INFO 2024-05-20T22:28:04-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Scrolling page from top to bottom
+[INFO 2024-05-20T22:28:29-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Scraping page
+[INFO 2024-05-20T22:28:31-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: 1 ads identified
+[INFO 2024-05-20T22:28:31-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Scraping ad 1 of 1
+[INFO 2024-05-20T22:28:37-04:00] https://religionnews.com/category/opinion/columns/faithfully-feminist/: Clicking on ad 1341
+[INFO 2024-05-20T22:28:37-04:00] http://www.novelfull.com/latest-release-novel: Loading page
+[INFO 2024-05-20T22:28:47-04:00] http://www.novelfull.com/latest-release-novel: Page finished loading
+[INFO 2024-05-20T22:28:47-04:00] https://novelfull.com/latest-release-novel: Scrolling page from top to bottom
+[INFO 2024-05-20T22:28:58-04:00] https://novelfull.com/latest-release-novel: Scraping page
+[INFO 2024-05-20T22:28:59-04:00] https://novelfull.com/latest-release-novel: 0 ads identified
+[INFO 2024-05-20T22:28:59-04:00] http://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Loading page
+[INFO 2024-05-20T22:29:11-04:00] http://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Page finished loading
+[INFO 2024-05-20T22:29:11-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scrolling page from top to bottom
+[INFO 2024-05-20T22:29:35-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping page
+[INFO 2024-05-20T22:29:37-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: 4 ads identified
+[INFO 2024-05-20T22:29:37-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 1 of 4
+[WARNING 2024-05-20T22:29:42-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
+[INFO 2024-05-20T22:29:42-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 2 of 4
+[WARNING 2024-05-20T22:29:47-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:29:47-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 3 of 4
+[WARNING 2024-05-20T22:29:52-04:00] Couldn't scrape ad: Error: No ad bounding box
+[INFO 2024-05-20T22:29:52-04:00] https://www.boursorama.com/videos/actualites/francois-xavier-bellamy-lr-la-chine-a-une-strategie-offensive-de-conquete-pour-detruire-la-production-industrielle-en-europe-6269c58221498b97379dce1f6b27a6f8: Scraping ad 4 of 4
+[WARNING 2024-05-20T22:29:57-04:00] Couldn't scrape ad: Error: Ad smaller than 30px in one dimension
