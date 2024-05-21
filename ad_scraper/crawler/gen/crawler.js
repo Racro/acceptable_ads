@@ -147,7 +147,8 @@ export async function crawl(flags) {
         handleSIGINT: false,
         userDataDir: FLAGS.chromeOptions.profileDir
         ,
-        executablePath: FLAGS.chromeOptions.executablePath
+        executablePath: FLAGS.chromeOptions.executablePath,
+        dumpio: true
         // executablePath: '/usr/bin/google-chrome'
     });
     process.on('SIGINT', async () => {
