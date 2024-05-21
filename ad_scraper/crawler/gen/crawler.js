@@ -166,6 +166,15 @@ export async function crawl(flags) {
     }
 
     try {
+        await page.goto('chrome://extensions', { timeout: 120000 });
+        await page.screenshot({
+            path: 'out/extension_verification.jpg'
+        });
+    } catch {
+
+    };
+
+    try {
         // Main loop through crawl list
         for (let i = crawlListStartingIndex; i < crawlList.length; i++) {
             const url = crawlList[i];
