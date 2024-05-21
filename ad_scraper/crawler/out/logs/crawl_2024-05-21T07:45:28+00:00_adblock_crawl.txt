@@ -1,0 +1,28 @@
+[INFO 2024-05-21T07:45:28+00:00] Postgres driver initialized
+[INFO 2024-05-21T07:45:28+00:00] Launching browser...
+[INFO 2024-05-21T07:45:29+00:00] Running Chrome/125.0.6422.60
+[INFO 2024-05-21T07:45:39+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Loading page
+[INFO 2024-05-21T07:45:51+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Page finished loading
+[INFO 2024-05-21T07:45:51+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scrolling page from top to bottom
+[INFO 2024-05-21T07:46:45+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping page
+[INFO 2024-05-21T07:46:58+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: 8 ads identified
+[INFO 2024-05-21T07:46:58+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 1 of 8
+[INFO 2024-05-21T07:47:04+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 129
+[WARNING 2024-05-21T07:47:14+00:00] Couldn't click ad: Error: https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Ad click timed out - 10000ms
+[INFO 2024-05-21T07:47:14+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 2 of 8
+[INFO 2024-05-21T07:47:20+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 130
+[WARNING 2024-05-21T07:47:30+00:00] Couldn't click ad: Error: https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Ad click timed out - 10000ms
+[INFO 2024-05-21T07:47:30+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 3 of 8
+[INFO 2024-05-21T07:47:35+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 131
+[WARNING 2024-05-21T07:47:45+00:00] Couldn't click ad: Error: https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Ad click timed out - 10000ms
+[INFO 2024-05-21T07:47:45+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 4 of 8
+[INFO 2024-05-21T07:47:51+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 132
+[WARNING 2024-05-21T07:48:01+00:00] Couldn't click ad: Error: https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Ad click timed out - 10000ms
+[INFO 2024-05-21T07:48:01+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 5 of 8
+[INFO 2024-05-21T07:48:19+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 133
+[INFO 2024-05-21T07:48:20+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 6 of 8
+[INFO 2024-05-21T07:48:27+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 134
+[INFO 2024-05-21T07:48:27+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 7 of 8
+[INFO 2024-05-21T07:48:32+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 135
+[INFO 2024-05-21T07:48:33+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Scraping ad 8 of 8
+[INFO 2024-05-21T07:48:38+00:00] https://www.geeksforgeeks.org/python-programming-language/?ref=outind: Clicking on ad 136
