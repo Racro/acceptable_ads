@@ -1,4 +1,0 @@
-[INFO 2024-05-21T07:00:02+00:00] Postgres driver initialized
-[INFO 2024-05-21T07:00:02+00:00] Launching browser...
-[INFO 2024-05-21T07:00:03+00:00] Running Chrome/125.0.6422.60
-[INFO 2024-05-21T07:00:14+00:00] http://www.religionnews.com: Loading page
