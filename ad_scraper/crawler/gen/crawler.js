@@ -11,6 +11,10 @@ import { createAsyncTimeout, sleep } from './util/timeout.js';
 import { scrapeAdsOnPage } from './ads/ad-scraper.js';
 import path from 'path';
 import csvParser from 'csv-parser';
+
+// Ritik
+import Xvfb from 'xvfb';
+
 sourceMapSupport.install();
 ;
 function setupGlobals(crawlerFlags) {
@@ -119,17 +123,31 @@ export async function crawl(flags) {
     log.info('Launching browser...');
     
     // Ritik
+    
+    var xvfb = new Xvfb({
+        silent: true,
+        reuse: true,
+        xvfb_args: ["-screen", "0", '1280x720x24', "-ac"],
+    });
+    xvfb.startSync((err)=>{if (err) console.error(err)})
+
     var p_args;
     if (FLAGS.chromeOptions.extnPath === 'control'){
         p_args = [
+	    '--display='+xvfb._display,
+	    '--no-sandbox',
+	    '--disable-gpu',
             '--disable-dev-shm-usage', 
             '--start-maximized',
             '--disable-extensions-except=./extn_src/consent',
-            '--load-extension=./extn_src/consent'
+            '--load-extension=./extn_src/consent',
+	    '--remote-debugging-port=9222'
         ];
     }
     else{
         p_args= [
+	    '--no-sandbox',
+	    '--disable-gpu',
             '--disable-dev-shm-usage', 
             '--start-maximized',
             `--disable-extensions-except=./extn_src/${FLAGS.chromeOptions.extnPath},./extn_src/consent`,
@@ -148,7 +166,8 @@ export async function crawl(flags) {
         userDataDir: FLAGS.chromeOptions.profileDir
         ,
         executablePath: FLAGS.chromeOptions.executablePath,
-        dumpio: true
+        dumpio: true,
+	timeout: 60000,
         // executablePath: '/usr/bin/google-chrome'
     });
     process.on('SIGINT', async () => {
@@ -269,6 +288,9 @@ export async function crawl(flags) {
         }
         await BROWSER.close();
         await db.postgres.query('UPDATE crawl SET completed=TRUE, completed_time=$1 WHERE id=$2', [new Date(), CRAWL_ID]);
+        
+	// Ritik
+	await xvfb.stopSync();
     }
     catch (e) {
         await BROWSER.close();

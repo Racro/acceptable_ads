@@ -28,7 +28,8 @@
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "rss-parser": "^3.13.0",
     "sharp": "^0.32.1",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "xvfb": "^0.4.0"
   },
   "devDependencies": {
     "@types/cli-progress": "^3.11.0",
