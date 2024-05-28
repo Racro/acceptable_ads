@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IEgjXe+8mLda0NmObwZ1ww
+! Checksum: BmrVHi3plpYuCva/3sTFiQ
 ! id: F12E0801-A00B-49DE-B1E3-52C9C4F90C8C
-! DiffUrl: https://easylist-downloads.adblockplus.org/v3/diff/exceptionrules-privacy-friendly/94c5ce779bc0e71e92a2996a9c775099a5cb9182.json
-! Version: 202404290901
+! DiffUrl: https://easylist-downloads.adblockplus.org/v3/diff/exceptionrules-privacy-friendly/2eaeb7776a63be5fd810981127c8b2657b02eb87.json
+! Version: 202405130901
 ! Title: Allow nonintrusive advertising without third-party tracking
 ! Expires: 1 days
 ! Homepage: https://acceptableads.com/
@@ -74,12 +74,6 @@ scriptreview.net#@#.etad
 @@||cmonecole.fr/images/cmonecole/upload/image/dossier/stoffel/ENCART_PUB_C_MON_ECOLE_MENUS_GENERAL_TELECHARGEMENT_FINANCEMENT_DANIEL_STOFFEL.jpg$domain=cmonecole.fr
 @@||cmonecole.fr/images/cmonecole/upload/image/dossier/stoffel/vente-chocolat-avec-daniel-stoffel_2.jpg
 @@||cmonecole.fr/images/banners/$image,domain=cmonecole.fr
-!:partner_token=forums.freenas.org
-!:partner_id=30177b5a928618c1
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=49838
-! forums.freenas.org ads
-@@||forums.freenas.org/assets/images/$image,domain=forums.freenas.org
 !:partner_token=nscreenmedia.com
 !:partner_id=93c87b818704ebab
 !:type=partner
@@ -109,12 +103,6 @@ boardgamequest.com#@#.td-header-ad-wrap
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43775
 ! ourworldofenergy.com ads
 ourworldofenergy.com#@##sponsors_container
-!:partner_token=theweddingcat.net
-!:partner_id=113ab810390af099
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44054
-! theweddingcat.net ads
-theweddingcat.net#@#.ad_footer
 !:partner_token=noodle.com
 !:partner_id=1ed727199bffba19
 !:type=partner

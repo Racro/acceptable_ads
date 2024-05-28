@@ -2,2167 +2,2203 @@
   [
     "-push-notification.$domain=~github.com",
     [
-      557720
+      560487
     ]
   ],
   [
     "-push-notification/$domain=~github.com",
     [
-      557721
+      560488
     ]
   ],
   [
     "/accusmartwebpush-fire-push-public.js",
     [
-      557722
+      560489
     ]
   ],
   [
     "/al-fb-notification/assets/scripts/al-main-script.js",
     [
-      557723
+      560490
     ]
   ],
   [
     "/amp-user-notification-",
     [
-      557724
+      560491
     ]
   ],
   [
     "/amp-web-push-0.1.js",
     [
-      557725
+      560492
     ]
   ],
   [
     "/assets/www/notification.",
     [
-      557726
+      560493
     ]
   ],
   [
     "/build/push.js",
     [
-      557727
+      560494
     ]
   ],
   [
     "/checkPush.js",
     [
-      557728
+      560495
     ]
   ],
   [
     "/content/js/push.js",
     [
-      557729
+      560496
     ]
   ],
   [
     "/fcmPush.js",
     [
-      557730
+      560497
     ]
   ],
   [
     "/FeedifySW.js",
     [
-      557731
+      560498
     ]
   ],
   [
     "/flying_push.js",
     [
-      557732
+      560499
     ]
   ],
   [
     "/ilabspush.min.js",
     [
-      557733
+      560500
     ]
   ],
   [
     "/inpl.webpush.js",
     [
-      557734
+      560501
     ]
   ],
   [
     "/jquery-notification.js",
     [
-      557735
+      560502
     ]
   ],
   [
     "/jsb/pushnotifications?",
     [
-      557736
+      560503
     ]
   ],
   [
     "/list_notificaciones.php",
     [
-      557737
+      560504
     ]
   ],
   [
     "/maximizly-push.js",
     [
-      557738
+      560505
     ]
   ],
   [
     "/modules/notifications.$domain=~forum.vivaldi.net",
     [
-      557739
+      560506
     ]
   ],
   [
     "/mp-web-notification.js",
     [
-      557740
+      560507
     ]
   ],
   [
     "/notification-prod-sw.js",
     [
-      557741
+      560508
     ]
   ],
   [
     "/notification-sw.js",
     [
-      557742
+      560509
     ]
   ],
   [
     "/notification/notify.js",
     [
-      557743
+      560510
     ]
   ],
   [
     "/notifyme.js",
     [
-      557744
+      560511
     ]
   ],
   [
     "/notifyme.min.js",
     [
-      557745
+      560512
     ]
   ],
   [
     "/one-signal.js",
     [
-      557746
+      560513
     ]
   ],
   [
     "/one-signal.min.js",
     [
-      557747
+      560514
     ]
   ],
   [
     "/onesignal.js",
     [
-      557748
+      560515
     ]
   ],
   [
     "/onesignal.min.",
     [
-      557749
+      560516
     ]
   ],
   [
     "/onesignal/manifest.",
     [
-      557750
+      560517
     ]
   ],
   [
     "/onesignalfix.js",
     [
-      557751
+      560518
     ]
   ],
   [
     "/OneSignalSDKUpdaterWorker.js",
     [
-      557752
+      560519
     ]
   ],
   [
     "/OneSignalSDKWorker.js",
     [
-      557753
+      560520
     ]
   ],
   [
     "/perfecty-push-sdk.min.js",
     [
-      557754
+      560521
     ]
   ],
   [
     "/plugins/tfnotifier-wp/swloader.php",
     [
-      557755
+      560522
     ]
   ],
   [
     "/push-notification.js",
     [
-      557756
+      560523
     ]
   ],
   [
     "/push-notification.min.js",
     [
-      557757
+      560524
     ]
   ],
   [
     "/push-notification/*$domain=~upwork.com",
     [
-      557758
+      560525
     ]
   ],
   [
     "/push-notifications.$~stylesheet",
     [
-      557759
+      560526
     ]
   ],
   [
     "/push-notifications/*",
     [
-      557760
+      560527
     ]
   ],
   [
     "/push-notifications?",
     [
-      557761
+      560528
     ]
   ],
   [
     "/push-sw.js",
     [
-      557762
+      560529
     ]
   ],
   [
     "/push-worker-$script",
     [
-      557763
+      560530
     ]
   ],
   [
     "/push-wrap.js",
     [
-      557764
+      560531
     ]
   ],
   [
     "/push/sbscr.js",
     [
-      557765
+      560532
     ]
   ],
   [
     "/push/sbscrp.js",
     [
-      557766
+      560533
     ]
   ],
   [
     "/push/subscribe.js",
     [
-      557767
+      560534
     ]
   ],
   [
     "/push_app.js",
     [
-      557768
+      560535
     ]
   ],
   [
     "/push_notification.js",
     [
-      557769
+      560536
     ]
   ],
   [
     "/push_notification.min.js",
     [
-      557770
+      560537
     ]
   ],
   [
     "/push_notification/*",
     [
-      557771
+      560538
     ]
   ],
   [
     "/push_notifications.js",
     [
-      557772
+      560539
     ]
   ],
   [
     "/push_subscription.js",
     [
-      557773
+      560540
     ]
   ],
   [
     "/pushes/firebase.js",
     [
-      557774
+      560541
     ]
   ],
   [
     "/pushes/notification.js",
     [
-      557775
+      560542
     ]
   ],
   [
     "/PushexSDK.js",
     [
-      557776
+      560543
     ]
   ],
   [
     "/pushly-sdk.min.js",
     [
-      557777
+      560544
     ]
   ],
   [
     "/pushNotification.js",
     [
-      557778
+      560545
     ]
   ],
   [
     "/pushNotifications.js",
     [
-      557779
+      560546
     ]
   ],
   [
     "/pushnotifications/*",
     [
-      557780
+      560547
     ]
   ],
   [
     "/pushNotificationSdkJS.js",
     [
-      557781
+      560548
     ]
   ],
   [
     "/pushpro-lib.js",
     [
-      557782
+      560549
     ]
   ],
   [
     "/pushsubscribe.js",
     [
-      557783
+      560550
+    ]
+  ],
+  [
+    "/pushup-notification/push-app.js",
+    [
+      560551
+    ]
+  ],
+  [
+    "/pushup-notification/push-messaging.js",
+    [
+      560552
     ]
   ],
   [
     "/pushv2.js",
     [
-      557784
+      560553
     ]
   ],
   [
     "/pushwoosh-service-worker.js",
     [
-      557785
+      560554
     ]
   ],
   [
     "/pushwoosh-web-notifications.js",
     [
-      557786
+      560555
     ]
   ],
   [
     "/pushwoosh-web-pushes-http-sdk.js",
     [
-      557787
+      560556
     ]
   ],
   [
     "/pushy-ver.js",
     [
-      557788
+      560557
     ]
   ],
   [
     "/scripts/onesignal.js",
     [
-      557789
+      560558
     ]
   ],
   [
     "/site-notification-desk.min.js",
     [
-      557790
+      560559
     ]
   ],
   [
     "/smio-push-notification/js/frontend_webpush.js",
     [
-      557791
+      560560
     ]
   ],
   [
     "/subscribe-push-notifications.js",
     [
-      557792
+      560561
     ]
   ],
   [
     "/web-push-notifications.js",
     [
-      557793
+      560562
     ]
   ],
   [
     "/web-push.js",
     [
-      557794
+      560563
     ]
   ],
   [
     "/web-push/init.min.js",
     [
-      557795
+      560564
     ]
   ],
   [
     "/webalert-notification.js",
     [
-      557796
+      560565
     ]
   ],
   [
     "/webnotf.js",
     [
-      557797
+      560566
     ]
   ],
   [
     "/webnotification.js",
     [
-      557798
+      560567
     ]
   ],
   [
     "/webpush-production.js",
     [
-      557799
+      560568
     ]
   ],
   [
     "/webpush.js",
     [
-      557800
+      560569
     ]
   ],
   [
     "/webpush.min.js",
     [
-      557801
+      560570
     ]
   ],
   [
     "/webpush_register.php",
     [
-      557802
+      560571
     ]
   ],
   [
     "/webPushNotifications.js",
     [
-      557803
+      560572
     ]
   ],
   [
     "/wonderpush-loader.min.js",
     [
-      557804
+      560573
     ]
   ],
   [
     "/wonderpush.js",
     [
-      557805
+      560574
     ]
   ],
   [
     "/wonderpush.min.js",
     [
-      557806
+      560575
     ]
   ],
   [
     "/wordpress-fire-push-public.js",
     [
-      557807
+      560576
     ]
   ],
   [
     "/wp-notification-bars-public.js",
     [
-      557808
+      560577
     ]
   ],
   [
     "/app-banner/*$xmlhttprequest",
     [
-      557809
+      560578
     ]
   ],
   [
     "/jquery.androidbanner.js",
     [
-      557810
+      560579
     ]
   ],
   [
     "/js-mobile-*/header_$script",
     [
-      557811
+      560580
     ]
   ],
   [
     "/js/jquery.smartbanner.js|",
     [
-      557812
+      560581
     ]
   ],
   [
     "/js/jquery.smartbanner.min.js|",
     [
-      557813
+      560582
     ]
   ],
   [
     "/mobile-welcome-overlay/*$script",
     [
-      557814
+      560583
     ]
   ],
   [
     "/smart-app-banner.js",
     [
-      557815
+      560584
     ]
   ],
   [
     "||api-push.com^$third-party",
     [
-      557816
+      560585
     ]
   ],
   [
     "||bildirnet.com^$third-party",
     [
-      557817
+      560586
     ]
   ],
   [
     "||braze.com^$third-party",
     [
-      557818
+      560587
     ]
   ],
   [
     "||cappushino.com^$third-party",
     [
-      557819
+      560588
     ]
   ],
   [
     "||cdn.qgr.ph^$third-party",
     [
-      557820
+      560589
     ]
   ],
   [
     "||cdn.qgraph.io^$third-party",
     [
-      557821
+      560590
     ]
   ],
   [
     "||centrnotify.com^$third-party",
     [
-      557822
+      560591
     ]
   ],
   [
     "||checke.biz^$third-party",
     [
-      557823
+      560592
     ]
   ],
   [
     "||confirmit.com^$third-party",
     [
-      557824
+      560593
     ]
   ],
   [
     "||conforama-push.com^$third-party",
     [
-      557825
+      560594
     ]
   ],
   [
     "||contentsitesrv.com/js/push/$third-party",
     [
-      557826
+      560595
     ]
   ],
   [
     "||css.xjsx.lol^$third-party",
     [
-      557827
+      560596
     ]
   ],
   [
     "||digipush.io^$third-party",
     [
-      557828
+      560597
     ]
   ],
   [
     "||dpns-notifications.com^$third-party",
     [
-      557829
+      560598
     ]
   ],
   [
     "||easyfeeed.com^$third-party",
     [
-      557830
+      560599
     ]
   ],
   [
     "||evolok.net^$third-party",
     [
-      557831
+      560600
     ]
   ],
   [
     "||farteniuson.com^$third-party",
     [
-      557832
+      560601
     ]
   ],
   [
     "||getnotification.me^$third-party",
     [
-      557833
+      560602
     ]
   ],
   [
     "||irpush.com^$third-party",
     [
-      557834
+      560603
     ]
   ],
   [
     "||jubi.ai/buttonbot/$script,third-party",
     [
-      557835
+      560604
     ]
   ],
   [
     "||krakenoptimize.com^$third-party",
     [
-      557836
+      560605
     ]
   ],
   [
     "||luravius.com^$third-party",
     [
-      557837
+      560606
     ]
   ],
   [
     "||medallia.com^*/onsite/embed.js",
     [
-      557838
+      560607
     ]
   ],
   [
     "||neopush.io^$third-party",
     [
-      557839
+      560608
     ]
   ],
   [
     "||news2day.me^$third-party",
     [
-      557840
+      560609
     ]
   ],
   [
     "||newsmemory.com/?meter",
     [
-      557841
+      560610
     ]
   ],
   [
     "||notification-time.com^$third-party",
     [
-      557842
+      560611
     ]
   ],
   [
     "||notification.tubecup.net^",
     [
-      557843
+      560612
     ]
   ],
   [
     "||notifications.ltd^$third-party",
     [
-      557844
+      560613
     ]
   ],
   [
     "||notifstation.com^$third-party",
     [
-      557845
+      560614
     ]
   ],
   [
     "||notix.io^$third-party",
     [
-      557846
+      560615
     ]
   ],
   [
     "||ntvsw.com^$third-party",
     [
-      557847
+      560616
     ]
   ],
   [
     "||partishion.com^$third-party",
     [
-      557848
+      560617
     ]
   ],
   [
     "||pathlime.com^$third-party",
     [
-      557849
+      560618
     ]
   ],
   [
     "||popmechanic.ru^$third-party",
     [
-      557850
+      560619
     ]
   ],
   [
     "||propush.net^$third-party",
     [
-      557851
+      560620
     ]
   ],
   [
     "||pt.appirits.com^$third-party",
     [
-      557852
+      560621
     ]
   ],
   [
     "||puscomosca.com^$third-party",
     [
-      557853
+      560622
     ]
   ],
   [
     "||push-centr.com^$third-party",
     [
-      557854
+      560623
     ]
   ],
   [
     "||push-centr.net^$third-party",
     [
-      557855
+      560624
     ]
   ],
   [
     "||push-engage.com^$third-party",
     [
-      557856
+      560625
     ]
   ],
   [
     "||push-notifications.top^$third-party",
     [
-      557857
+      560626
     ]
   ],
   [
     "||push-pro.net^$third-party",
     [
-      557858
+      560627
     ]
   ],
   [
     "||push.bytesignal.com^",
     [
-      557859
+      560628
     ]
   ],
   [
     "||push.daksham.in^$third-party",
     [
-      557860
+      560629
     ]
   ],
   [
     "||push.delivery.ethinking.de^",
     [
-      557861
+      560630
     ]
   ],
   [
     "||push.delivery^$third-party",
     [
-      557862
+      560631
     ]
   ],
   [
     "||push.esputnik.com^",
     [
-      557863
+      560632
     ]
   ],
   [
     "||push.getbeamer.com^",
     [
-      557864
+      560633
     ]
   ],
   [
     "||push.knd.ro^",
     [
-      557865
+      560634
     ]
   ],
   [
     "||push.newscraft.io^",
     [
-      557866
+      560635
     ]
   ],
   [
     "||push.reamaze.com^",
     [
-      557867
+      560636
     ]
   ],
   [
     "||push.rollout.io^$third-party",
     [
-      557868
+      560637
     ]
   ],
   [
     "||push.world^$third-party",
     [
-      557869
+      560638
     ]
   ],
   [
     "||pushaddict.com^$third-party",
     [
-      557870
+      560639
     ]
   ],
   [
     "||pushango.com^$third-party",
     [
-      557871
+      560640
     ]
   ],
   [
     "||pushassist.com^$third-party",
     [
-      557872
+      560641
     ]
   ],
   [
     "||pushaya.com^$third-party",
     [
-      557873
+      560642
     ]
   ],
   [
     "||pushbaza.com^$third-party",
     [
-      557874
+      560643
     ]
   ],
   [
     "||pushbots.com^$third-party",
     [
-      557875
+      560644
     ]
   ],
   [
     "||pushbox.info^$third-party",
     [
-      557876
+      560645
     ]
   ],
   [
     "||pushcentr.com^$third-party",
     [
-      557877
+      560646
     ]
   ],
   [
     "||pushchev.info^$third-party",
     [
-      557878
+      560647
     ]
   ],
   [
     "||pushcrew.com^$third-party",
     [
-      557879
+      560648
     ]
   ],
   [
     "||pushdealer.com^$third-party",
     [
-      557880
+      560649
     ]
   ],
   [
     "||pushe.co^$third-party",
     [
-      557881
+      560650
     ]
   ],
   [
     "||pusherapp.com^$third-party",
     [
-      557882
+      560651
     ]
   ],
   [
     "||pushinpage.com^$third-party",
     [
-      557883
+      560652
     ]
   ],
   [
     "||pushinstruments.com^$third-party",
     [
-      557884
+      560653
+    ]
+  ],
+  [
+    "||pushio.com^$third-party",
+    [
+      560654
     ]
   ],
   [
     "||pushjunky.com^$third-party",
     [
-      557885
+      560655
     ]
   ],
   [
     "||pushkahouse.com^$third-party",
     [
-      557886
+      560656
     ]
   ],
   [
     "||pushkaplus.com^$third-party",
     [
-      557887
+      560657
     ]
   ],
   [
     "||pushly.com^$third-party",
     [
-      557888
+      560658
     ]
   ],
   [
     "||pushmaster-cdn.xyz^$third-party",
     [
-      557889
+      560659
     ]
   ],
   [
     "||pushmejs.com^$third-party",
     [
-      557890
+      560660
     ]
   ],
   [
     "||pushnews.eu^$third-party",
     [
-      557891
+      560661
     ]
   ],
   [
     "||pushnotifications.click^$third-party",
     [
-      557892
+      560662
     ]
   ],
   [
     "||pushouse.com^$third-party",
     [
-      557893
+      560663
     ]
   ],
   [
     "||pushowl.com^$third-party",
     [
-      557894
+      560664
     ]
   ],
   [
     "||pushpad.xyz^$third-party",
     [
-      557895
+      560665
     ]
   ],
   [
     "||pushpanda.io^$third-party",
     [
-      557896
+      560666
     ]
   ],
   [
     "||pushpro.io^$third-party",
     [
-      557897
+      560667
     ]
   ],
   [
     "||pushprofit.ru^$third-party",
     [
-      557898
+      560668
     ]
   ],
   [
     "||pushprospush.com^$third-party",
     [
-      557899
+      560669
     ]
   ],
   [
     "||pushpushgo.com^$third-party",
     [
-      557900
+      560670
     ]
   ],
   [
     "||pushstack.it^$third-party",
     [
-      557901
+      560671
     ]
   ],
   [
     "||pushtide.com^$third-party",
     [
-      557902
+      560672
     ]
   ],
   [
     "||pushvip.ru^$third-party",
     [
-      557903
+      560673
     ]
   ],
   [
     "||pushwhy.com^$third-party",
     [
-      557904
+      560674
     ]
   ],
   [
     "||pushy.ai^$third-party",
     [
-      557905
+      560675
     ]
   ],
   [
     "||quarepush.com^$third-party",
     [
-      557906
+      560676
     ]
   ],
   [
     "||quaruzon.com^$third-party",
     [
-      557907
+      560677
     ]
   ],
   [
     "||realpush.media^$third-party",
     [
-      557908
+      560678
     ]
   ],
   [
     "||realpush.network^$third-party",
     [
-      557909
+      560679
     ]
   ],
   [
     "||revpusher.com^$third-party",
     [
-      557910
+      560680
     ]
   ],
   [
     "||sckxppzdm.com^$third-party",
     [
-      557911
+      560681
     ]
   ],
   [
     "||signaly.co^$third-party",
     [
-      557912
+      560682
     ]
   ],
   [
     "||snrcdn.net^$third-party",
     [
-      557913
+      560683
     ]
   ],
   [
     "||spacepush.ru^$third-party",
     [
-      557914
+      560684
     ]
   ],
   [
     "||system-notify.app^$third-party",
     [
-      557915
+      560685
     ]
   ],
   [
     "||topswp.com^$third-party",
     [
-      557916
+      560686
     ]
   ],
   [
     "||unative.com^$third-party",
     [
-      557917
+      560687
     ]
   ],
   [
     "||viafoura.net/push_handlers.js",
     [
-      557918
+      560688
     ]
   ],
   [
     "||virtualpushplatform.com^$third-party",
     [
-      557919
+      560689
     ]
   ],
   [
     "||webpush.jp^$third-party",
     [
-      557920
+      560690
     ]
   ],
   [
     "||webpushr.com^$third-party",
     [
-      557921
+      560691
     ]
   ],
   [
     "||webpushs.com^$third-party",
     [
-      557922
+      560692
     ]
   ],
   [
     "||whitepush.biz^$third-party",
     [
-      557923
+      560693
     ]
   ],
   [
     "||worldpush.co^$third-party",
     [
-      557924
+      560694
     ]
   ],
   [
     "||wps.relateddigital.com^$third-party",
     [
-      557925
+      560695
     ]
   ],
   [
     "||wpush.biz^$third-party",
     [
-      557926
+      560696
     ]
   ],
   [
     "||wpushsdk.com^$third-party",
     [
-      557927
+      560697
     ]
   ],
   [
     "||xedo.me^$third-party",
     [
-      557928
+      560698
     ]
   ],
   [
     "||youlead.pl/webpushprompt.js",
     [
-      557929
+      560699
     ]
   ],
   [
     "||accengage.net^$third-party",
     [
-      557930
+      560700
     ]
   ],
   [
     "||actirinius.com^$third-party",
     [
-      557931
+      560701
     ]
   ],
   [
     "||aimtell.com^$third-party",
     [
-      557932
+      560702
     ]
   ],
   [
     "||alertme.news^$third-party",
     [
-      557933
+      560703
     ]
   ],
   [
     "||amazonaws.com/cdn.aimtell.com/",
     [
-      557934
+      560704
     ]
   ],
   [
     "||aswpsdkeu.com^$third-party",
     [
-      557935
+      560705
     ]
   ],
   [
     "||aswpsdkus.com^$third-party",
     [
-      557936
+      560706
     ]
   ],
   [
     "||bildirt.com^$third-party",
     [
-      557937
+      560707
     ]
   ],
   [
     "||bosspush.com^$third-party",
     [
-      557938
+      560708
     ]
   ],
   [
     "||browserpusher.com^$third-party",
     [
-      557939
+      560709
     ]
   ],
   [
     "||cdn-sitegainer.com^$third-party",
     [
-      557940
+      560710
     ]
   ],
   [
     "||cleverpush.com^$third-party",
     [
-      557941
+      560711
     ]
   ],
   [
     "||copush.com^$third-party",
     [
-      557942
+      560712
     ]
   ],
   [
     "||cracataum.com^$third-party",
     [
-      557943
+      560713
     ]
   ],
   [
     "||danorenius.com^$third-party",
     [
-      557944
+      560714
     ]
   ],
   [
     "||digitalpush.org^$third-party",
     [
-      557945
+      560715
     ]
   ],
   [
     "||edrone.me^$third-party",
     [
-      557946
+      560716
     ]
   ],
   [
     "||face-push.com^$third-party",
     [
-      557947
+      560717
     ]
   ],
   [
     "||feedify.net^$third-party",
     [
-      557948
+      560718
     ]
   ],
   [
     "||feraciumus.com^$third-party",
     [
-      557949
+      560719
     ]
   ],
   [
     "||fernomius.com^$third-party",
     [
-      557950
+      560720
     ]
   ],
   [
     "||fkondate.com^$third-party",
     [
-      557951
+      560721
     ]
   ],
   [
     "||foxpush.com^$third-party",
     [
-      557952
+      560722
     ]
   ],
   [
     "||foxpush.net^$third-party",
     [
-      557953
+      560723
     ]
   ],
   [
     "||getback.ch^$third-party",
     [
-      557954
+      560724
     ]
   ],
   [
     "||getpush.net^$third-party",
     [
-      557955
+      560725
     ]
   ],
   [
     "||getpushmonkey.com^$third-party",
     [
-      557956
+      560726
     ]
   ],
   [
     "||gravitec.net^$third-party",
     [
-      557957
+      560727
     ]
   ],
   [
     "||heroesdom.com^$third-party",
     [
-      557958
+      560728
     ]
   ],
   [
     "||jeeng.com^$third-party",
     [
-      557959
+      560729
     ]
   ],
   [
     "||kattepush.com^$third-party",
     [
-      557960
+      560730
     ]
   ],
   [
     "||master-push.com^$third-party",
     [
-      557961
+      560731
     ]
   ],
   [
     "||master-push.net^$third-party",
     [
-      557962
+      560732
     ]
   ],
   [
     "||misrepush.com^$third-party",
     [
-      557963
+      560733
     ]
   ],
   [
     "||moengage.com^$third-party",
     [
-      557964
+      560734
     ]
   ],
   [
     "||mp3vizor.com^$third-party",
     [
-      557965
+      560735
     ]
   ],
   [
     "||najva.com^$third-party",
     [
-      557966
+      560736
     ]
   ],
   [
     "||nativesubscribe.pro^$third-party",
     [
-      557967
+      560737
     ]
   ],
   [
     "||notifadz.com^$third-party",
     [
-      557968
+      560738
     ]
   ],
   [
     "||notifpush.com^$third-party",
     [
-      557969
+      560739
     ]
   ],
   [
     "||notify.solutions^$third-party",
     [
-      557970
+      560740
     ]
   ],
   [
     "||olgtex.com^$third-party",
     [
-      557971
+      560741
     ]
   ],
   [
     "||on-push.com^$third-party",
     [
-      557972
+      560742
     ]
   ],
   [
     "||onepush.app^$third-party",
     [
-      557973
+      560743
     ]
   ],
   [
     "||provesrc.com^$third-party",
     [
-      557974
+      560744
     ]
   ],
   [
     "||psh.one^$third-party",
     [
-      557975
+      560745
     ]
   ],
   [
     "||push-ad.com^$third-party",
     [
-      557976
+      560746
     ]
   ],
   [
     "||push-free.com^$third-party",
     [
-      557977
+      560747
     ]
   ],
   [
     "||push-house.net^$third-party",
     [
-      557978
+      560748
     ]
   ],
   [
     "||pushalert.co^$third-party",
     [
-      557979
+      560749
     ]
   ],
   [
     "||pushbird.com^$third-party",
     [
-      557980
+      560750
     ]
   ],
   [
     "||pushbullet.com^$third-party",
     [
-      557981
+      560751
     ]
   ],
   [
     "||pushengage.com^$third-party",
     [
-      557982
+      560752
     ]
   ],
   [
     "||pushex.io^$third-party",
     [
-      557983
+      560753
     ]
   ],
   [
     "||pushible.com^$third-party",
     [
-      557984
+      560754
     ]
   ],
   [
     "||pushify.com^$third-party",
     [
-      557985
+      560755
     ]
   ],
   [
     "||pushwoosh.com^$third-party",
     [
-      557986
+      560756
     ]
   ],
   [
     "||reprocautious.com^$third-party",
     [
-      557987
+      560757
     ]
   ],
   [
     "||sendpulse.com^$third-party",
     [
-      557988
+      560758
     ]
   ],
   [
     "||setrowid.com^$third-party",
     [
-      557989
+      560759
     ]
   ],
   [
     "||shroughtened.com^$third-party",
     [
-      557990
+      560760
     ]
   ],
   [
     "||sm-epsilon.com^$third-party",
     [
-      557991
+      560761
     ]
   ],
   [
     "||snd.tc^$third-party",
     [
-      557992
+      560762
     ]
   ],
   [
     "||subscribers.com^$third-party",
     [
-      557993
+      560763
     ]
   ],
   [
     "||truenat.bid^$third-party",
     [
-      557994
+      560764
     ]
   ],
   [
     "||truepush.com^$third-party",
     [
-      557995
+      560765
     ]
   ],
   [
     "||urbanairship.com^$third-party",
     [
-      557996
+      560766
     ]
   ],
   [
     "||viapush.com^$third-party",
     [
-      557997
+      560767
     ]
   ],
   [
     "||webpu.sh^$third-party",
     [
-      557998
+      560768
     ]
   ],
   [
     "||whiteclick.biz^$third-party",
     [
-      557999
+      560769
     ]
   ],
   [
     "||wnpbdan.bid^$third-party",
     [
-      558000
+      560770
     ]
   ],
   [
     "||wonderpush.com^$third-party",
     [
-      558001
+      560771
     ]
   ],
   [
     "||wwclicknews.club^$third-party",
     [
-      558002
+      560772
     ]
   ],
   [
     "||wwclicktm.club^$third-party",
     [
-      558003
+      560773
     ]
   ],
   [
     "||xtremepush.com^$third-party",
     [
-      558004
+      560774
     ]
   ],
   [
     "||app.adjust.net.in/smart_banner",
     [
-      558005
+      560775
     ]
   ],
   [
     "||mobi24.net^$third-party",
     [
-      558006
+      560776
     ]
   ],
   [
     "/firebase-messaging.js$script,domain=tribunnews.com",
     [
-      558007
+      560777
     ]
   ],
   [
     "||9to5terminal.com/push.js",
     [
-      558008
+      560778
     ]
   ],
   [
     "||abendpoint.com/dist/js/push.js",
     [
-      558009
+      560779
     ]
   ],
   [
     "||alerts.ndtv.com^",
     [
-      558010
+      560780
     ]
   ],
   [
     "||alerts.thedailystar.net^",
     [
-      558011
+      560781
     ]
   ],
   [
     "||alibaba.com/sw.js",
     [
-      558012
+      560782
     ]
   ],
   [
     "||annahar.com/assets/js/notifications.js",
     [
-      558013
+      560783
     ]
   ],
   [
     "||astian.org/?push_notification_sw",
     [
-      558014
+      560784
     ]
   ],
   [
     "||bdstatic.com/linksubmit/push.js",
     [
-      558015
+      560785
     ]
   ],
   [
     "||bigbangnews.com/sw.js",
     [
-      558016
+      560786
     ]
   ],
   [
     "||dailymail.co.uk/api/web-push-notification/",
     [
-      558017
+      560787
     ]
   ],
   [
     "||gadgetsnow.com/sw.cms",
     [
-      558018
+      560788
     ]
   ],
   [
     "||gstatic.com/firebasejs/$domain=joins.com",
     [
-      558019
+      560789
     ]
   ],
   [
     "||hindustantimes.com/messaging-sw.js",
     [
-      558020
+      560790
     ]
   ],
   [
     "||hindustantimes.com/sw.js",
     [
-      558021
+      560791
     ]
   ],
   [
     "||hindustantimes.com^*/ht-notification-",
     [
-      558022
+      560792
     ]
   ],
   [
     "||hulkprod.anm.co.uk/api/web-push-notification/",
     [
-      558023
+      560793
     ]
   ],
   [
     "||imyfone.com/*/notification/$script",
     [
-      558024
+      560794
     ]
   ],
   [
     "||indiatimes.com/pn/",
     [
-      558025
+      560795
     ]
   ],
   [
     "||iol.co.za/sw.js",
     [
-      558026
+      560796
     ]
   ],
   [
     "||kogan.com/sw.js",
     [
-      558027
+      560797
     ]
   ],
   [
     "||latestdeals.co.uk/sw.js",
     [
-      558028
+      560798
     ]
   ],
   [
     "||msn.com/bundles/v1/homePage/latest/experiences_conditional-banner",
     [
-      558029
+      560799
     ]
   ],
   [
     "||ndtv.com/js/breaking_pushalert_revised.js",
     [
-      558030
+      560800
     ]
   ],
   [
     "||ndtv.com/sw.js",
     [
-      558031
+      560801
     ]
   ],
   [
     "||newsukraine.rbc.ua/sworker.js",
     [
-      558032
+      560802
     ]
   ],
   [
     "||nookazon.com/firebase-messaging-sw.js",
     [
-      558033
+      560803
     ]
   ],
   [
     "||notify.hindustantimes.com^",
     [
-      558034
+      560804
+    ]
+  ],
+  [
+    "||phys.org/push-sw.js",
+    [
+      560805
     ]
   ],
   [
     "||push.cnnindonesia.com^",
     [
-      558035
+      560806
+    ]
+  ],
+  [
+    "||push.ictsd.org^",
+    [
+      560807
     ]
   ],
   [
     "||renaultsport.com/spip.php?page=sw.js",
     [
-      558036
+      560808
     ]
   ],
   [
     "||rottentomatoes.com/service-worker/sw.js",
     [
-      558037
+      560809
     ]
   ],
   [
     "||rt.com/homescreen-sw.js",
     [
-      558038
+      560810
     ]
   ],
   [
     "||sammobile.com/wp-content/plugins/sam-push-notifications/",
     [
-      558039
+      560811
     ]
   ],
   [
     "||scmp.com/sw.js",
     [
-      558040
+      560812
     ]
   ],
   [
     "||seattletimes.com/wp-content/plugins/st-user-messaging/$script",
     [
-      558041
+      560813
     ]
   ],
   [
     "||sportskeeda.com/js/production/web-notifications/",
     [
-      558042
+      560814
     ]
   ],
   [
     "||techwalla.com/push-service-worker.js",
     [
-      558043
+      560815
     ]
   ],
   [
     "||telegraphindia.com/akam-sw.js",
     [
-      558044
+      560816
     ]
   ],
   [
     "||timesnownews.com/sw.js",
     [
-      558045
+      560817
     ]
   ],
   [
     "||ultimedia.com/js/common/notification.js",
     [
-      558046
+      560818
     ]
   ],
   [
     "||weather.com/*.MedalliaSurvey.",
     [
-      558047
+      560819
     ]
   ],
   [
     "||0564.ua/assets/d6ade384/js/alertsWidget.js",
     [
-      558048
+      560820
     ]
   ],
   [
     "||ad-hoc-news.de/js/push.js",
     [
-      558049
+      560821
     ]
   ],
   [
     "||agazeta.com.br/assets/javascript/notification.js",
     [
-      558050
+      560822
     ]
   ],
   [
     "||cnnindonesia.com/sw.js",
     [
-      558051
+      560823
     ]
   ],
   [
     "||dcnews.ro/sm-",
     [
-      558052
+      560824
     ]
   ],
   [
     "||elpais.com.uy/utms.js",
     [
-      558053
+      560825
     ]
   ],
   [
     "||flashscore.fr^*/build/notifications.",
     [
-      558054
+      560826
     ]
   ],
   [
     "||futura-sciences.com/clientscript/push.js",
     [
-      558055
+      560827
     ]
   ],
   [
     "||horoscope.fr/notifications/",
     [
-      558056
+      560828
     ]
   ],
   [
     "||metrobilbao.eus/firebase-messaging-sw.js",
     [
-      558057
+      560829
     ]
   ],
   [
     "||push.idowa.de^",
     [
-      558058
+      560830
     ]
   ],
   [
     "||push.neko-san.fr^",
     [
-      558059
+      560831
     ]
   ],
   [
     "||pushme.magellanotech.it^",
     [
-      558060
+      560832
     ]
   ],
   [
     "||tio.ch/js/api.push.js",
     [
-      558061
+      560833
     ]
   ],
   [
     "||tutto.tv/wp-content/plugins/plugin-notifiche-",
     [
-      558062
+      560834
     ]
   ],
   [
     "||uchubiz.com/wp-content/themes/uchubiz/assets/js/push.js",
     [
-      558063
+      560835
+    ]
+  ],
+  [
+    "||winnipegfreepress.com/firebase-messaging-sw.js",
+    [
+      560836
     ]
   ],
   [
     "||static.chrono24.com/lib/generated/js/app-hint-layer.",
     [
-      558064
+      560837
     ]
   ],
   [
     "||tapcart.com/mobile-download-banner/banner-min.js",
     [
-      558065
+      560838
     ]
   ],
   [
     "@@||bostonherald.com^*/webpush.js$script,~third-party",
     [
-      558066
+      560839
     ]
   ],
   [
     "@@||braze.com/api/$domain=deezer.com",
     [
-      558067
+      560840
     ]
   ],
   [
     "@@||forums.opera.com/assets/src/modules/notifications.js$~third-party",
     [
-      558068
+      560841
     ]
   ],
   [
     "@@||inevent.com/js/wizard/pushNotification.js$script,~third-party",
     [
-      558069
+      560842
     ]
   ],
   [
     "@@||learner.mycreds.ca/assets/js/modules/notifications.min.js$~third-party",
     [
-      558070
+      560843
     ]
   ],
   [
     "@@||ledevoir.com/js/web-push.js$script,~third-party",
     [
-      558071
+      560844
     ]
   ],
   [
     "@@||oakley.com^*/notifications.js$~third-party",
     [
-      558072
+      560845
     ]
   ],
   [
     "@@||paste.crdroid.net/assets/js/modules/notifications.js$script,~third-party",
     [
-      558073
+      560846
     ]
   ],
   [
     "@@||snrcdn.net/sdk/3.0/synerise-javascript-sdk.min.js$domain=komputronik.pl",
     [
-      558074
+      560847
     ]
   ],
   [
     "@@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru",
     [
-      558075
+      560848
     ]
   ],
   [
     "@@||webpush.jp/js/browserpushv3.js$domain=zakzak.co.jp",
     [
-      558076
+      560849
     ]
   ],
   [
     "@@||anadolu.edu.tr/assets/js/jquery.smartbanner.js$~third-party",
     [
-      558077
+      560850
     ]
   ],
   [
     "@@||assure.ameli.fr^*/smart-app-banner.js$~third-party",
     [
-      558078
+      560851
     ]
   ],
   [
     "@@||mafia.ua/js/jquery.smartbanner.js$script,~third-party",
     [
-      558079
+      560852
     ]
   ],
   [
     "@@||mirage.ru/js/jquery.smartbanner.js$script,~third-party",
     [
-      558080
+      560853
     ]
   ]
 ]

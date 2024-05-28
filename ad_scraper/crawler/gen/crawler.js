@@ -140,8 +140,7 @@ export async function crawl(flags) {
             '--disable-dev-shm-usage', 
             '--start-maximized',
             '--disable-extensions-except=./extn_src/consent',
-            '--load-extension=./extn_src/consent',
-	    '--remote-debugging-port=9222'
+            '--load-extension=./extn_src/consent'
         ];
     }
     else{

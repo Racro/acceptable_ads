@@ -2,1669 +2,1681 @@
   [
     "-consent-banner.",
     [
-      557442
+      560207
     ]
   ],
   [
     "-cookie-consent.js",
     [
-      557443
+      560208
     ]
   ],
   [
     "/as24-cmp/consent-banner/*$script",
     [
-      557444
+      560209
     ]
   ],
   [
     "/avia-snippet-cookieconsent.js",
     [
-      557445
+      560210
     ]
   ],
   [
     "/avis_cookies",
     [
-      557446
+      560211
     ]
   ],
   [
     "/bb-cookies.",
     [
-      557447
+      560212
     ]
   ],
   [
     "/bc-cookie-consent/assets/js/klaro.js",
     [
-      557448
+      560213
     ]
   ],
   [
     "/becookiebar.js",
     [
-      557449
+      560214
     ]
   ],
   [
     "/bica-cookie-alert/js/bica.min.js",
     [
-      557450
+      560215
     ]
   ],
   [
     "/bluelabs-gdpr.js",
     [
-      557451
+      560216
     ]
   ],
   [
     "/borlabs-cookie/*$script,domain=~kombi.de|~online.sovendus.com",
     [
-      557452
+      560217
     ]
   ],
   [
     "/born-cookies-public.$script,stylesheet",
     [
-      557453
+      560218
     ]
   ],
   [
     "/c-cookiePolicy",
     [
-      557454
+      560219
     ]
   ],
   [
     "/ccbundle.min.js",
     [
-      557455
+      560220
     ]
   ],
   [
     "/ccbundle2.min.js",
     [
-      557456
+      560221
     ]
   ],
   [
     "/ccm/public/app.js",
     [
-      557457
+      560222
     ]
   ],
   [
     "/complianz-gdpr/cookiebanner/*",
     [
-      557458
+      560223
     ]
   ],
   [
     "/consent-banner-",
     [
-      557459
+      560224
     ]
   ],
   [
     "/consent-layer/js/consent-layer-loader.js",
     [
-      557460
+      560225
     ]
   ],
   [
     "/consent-tracking-",
     [
-      557461
+      560226
     ]
   ],
   [
     "/consent_v2/choice.js",
     [
-      557462
+      560227
     ]
   ],
   [
     "/consentbanner-fragment/*",
     [
-      557463
+      560228
     ]
   ],
   [
     "/ConsentTracking-$domain=~eu.gregorypacks.com",
     [
-      557464
+      560229
     ]
   ],
   [
     "/cookie-banner$domain=~stwater.co.uk",
     [
-      557465
+      560230
     ]
   ],
   [
     "/cookie-consent$script",
     [
-      557466
+      560231
     ]
   ],
   [
     "/cookie-consent-$domain=~cookielaw.org|~github.com|~gitlab.com",
     [
-      557467
+      560232
     ]
   ],
   [
     "/cookie-consent-manager.js",
     [
-      557468
+      560233
     ]
   ],
   [
     "/cookie-info.js",
     [
-      557469
+      560234
     ]
   ],
   [
     "/cookie-info.min.js",
     [
-      557470
+      560235
     ]
   ],
   [
     "/cookie-information.min.js",
     [
-      557471
+      560236
     ]
   ],
   [
     "/cookie-law-info-$domain=~swnsdigital.com",
     [
-      557472
+      560237
     ]
   ],
   [
     "/cookie-message.js",
     [
-      557473
+      560238
     ]
   ],
   [
     "/cookie-policy.js$domain=~newpharma.be",
     [
-      557474
+      560239
     ]
   ],
   [
     "/cookie-prompt.js",
     [
-      557475
+      560240
     ]
   ],
   [
     "/cookie-widget/*",
     [
-      557476
+      560241
     ]
   ],
   [
     "/cookie_agreement_dialogue.js",
     [
-      557477
+      560242
     ]
   ],
   [
     "/cookie_offcanvas",
     [
-      557478
+      560243
     ]
   ],
   [
     "/cookie_policy.",
     [
-      557479
+      560244
     ]
   ],
   [
     "/cookiebar.",
     [
-      557480
+      560245
     ]
   ],
   [
     "/cookiecode.dist.min.js",
     [
-      557481
+      560246
     ]
   ],
   [
     "/cookieconsent-$script,domain=~banknorwegian.no",
     [
-      557482
+      560247
     ]
   ],
   [
     "/cookieconsent.$script,domain=~lightningmaps.org|~plus-gp-joule.de",
     [
-      557483
+      560248
     ]
   ],
   [
-    "/cookieconsent/*",
+    "/cookieconsent/*$domain=~combi.de|~mytime.de",
     [
-      557484
+      560249
     ]
   ],
   [
     "/cookiecontrol.js",
     [
-      557485
+      560250
     ]
   ],
   [
     "/cookielaw.js",
     [
-      557486
+      560251
     ]
   ],
   [
     "/cookielayover-min.js",
     [
-      557487
+      560252
     ]
   ],
   [
     "/cookielayover.js",
     [
-      557488
+      560253
     ]
   ],
   [
-    "/cookieModal.",
+    "/cookieModal.$domain=~pertemps.co.uk",
     [
-      557489
+      560254
     ]
   ],
   [
     "/cookiemonster.js",
     [
-      557490
+      560255
     ]
   ],
   [
     "/cookieNotice.build.js",
     [
-      557491
+      560256
     ]
   ],
   [
     "/cookienotice.js",
     [
-      557492
+      560257
     ]
   ],
   [
     "/cookiepolicies",
     [
-      557493
+      560258
     ]
   ],
   [
     "/cookiepolicy$script,domain=~barclays.co.uk|~steuerberatung-berlin.de",
     [
-      557494
+      560259
     ]
   ],
   [
     "/cookies-consent-management/ccm.js",
     [
-      557495
+      560260
     ]
   ],
   [
     "/cookies-info.js",
     [
-      557496
+      560261
     ]
   ],
   [
     "/cookies-min.js",
     [
-      557497
+      560262
     ]
   ],
   [
     "/cookies-notification.",
     [
-      557498
+      560263
     ]
   ],
   [
     "/cookies-policy-notification-bar.min.js",
     [
-      557499
+      560264
     ]
   ],
   [
     "/cookiesjsr^$script",
     [
-      557500
+      560265
     ]
   ],
   [
     "/cookieswarning.js",
     [
-      557501
+      560266
     ]
   ],
   [
     "/didomi.js",
     [
-      557502
+      560267
     ]
   ],
   [
     "/disclaimer-cookies.js",
     [
-      557503
+      560268
     ]
   ],
   [
     "/eu_cookie_compliance/*$script,domain=~mangasaki.org",
     [
-      557504
+      560269
     ]
   ],
   [
     "/ga-cookie-policy.min.js",
     [
-      557505
+      560270
     ]
   ],
   [
     "/gdpr-banner/*",
     [
-      557506
+      560271
     ]
   ],
   [
     "/gdpr-cookie-compliance/*$script",
     [
-      557507
+      560272
     ]
   ],
   [
     "/gdpr.js",
     [
-      557508
+      560273
     ]
   ],
   [
     "/gdpr/*/loader.js",
     [
-      557509
+      560274
     ]
   ],
   [
     "/gdpr/gdpr_",
     [
-      557510
+      560275
     ]
   ],
   [
     "/getCookieConsent.php",
     [
-      557511
+      560276
     ]
   ],
   [
     "/glowCookies",
     [
-      557512
+      560277
     ]
   ],
   [
     "/ht_cookielaw",
     [
-      557513
+      560278
     ]
   ],
   [
     "/hw-cookie-consent/*",
     [
-      557514
+      560279
     ]
   ],
   [
     "/ilmenite-cookie-consent.min.js",
     [
-      557515
+      560280
     ]
   ],
   [
     "/ionic_consent/*",
     [
-      557516
+      560281
     ]
   ],
   [
     "/jcookie_v2.js",
     [
-      557517
+      560282
     ]
   ],
   [
     "/jEuCookieLaw.min.js",
     [
-      557518
+      560283
     ]
   ],
   [
     "/js/cookies_bar",
     [
-      557519
+      560284
     ]
   ],
   [
     "/KE_AuthenticationFile.js",
     [
-      557520
+      560285
     ]
   ],
   [
     "/klaro-no-css.js",
     [
-      557521
+      560286
     ]
   ],
   [
     "/marked-cookie-consent-web/app.js",
     [
-      557522
+      560287
     ]
   ],
   [
     "/mibreitCookieConsent.min.js",
     [
-      557523
+      560288
     ]
   ],
   [
     "/modal-gdpr.",
     [
-      557524
+      560289
     ]
   ],
   [
     "/nanoGDPR.min.js",
     [
-      557525
+      560290
     ]
   ],
   [
     "/nc-rgpd-cookies",
     [
-      557526
+      560291
     ]
   ],
   [
     "/onpc-cookie-notice.js",
     [
-      557527
+      560292
     ]
   ],
   [
     "/pandectes-core.js",
     [
-      557528
+      560293
     ]
   ],
   [
     "/pitprivacy.js",
     [
-      557529
+      560294
     ]
   ],
   [
     "/plugins/am-cookie-ban/*",
     [
-      557530
+      560295
     ]
   ],
   [
     "/plugins/bst-dsgvo-cookie/*",
     [
-      557531
+      560296
     ]
   ],
   [
     "/plugins/complianz-gdpr-premium/*$domain=~technopat.net",
     [
-      557532
+      560297
     ]
   ],
   [
     "/plugins/cookieBox/*",
     [
-      557533
+      560298
     ]
   ],
   [
     "/plugins/cookiefox/*",
     [
-      557534
+      560299
     ]
   ],
   [
     "/plugins/gdpr-cookie-compliance",
     [
-      557535
+      560300
     ]
   ],
   [
     "/plugins/intersites-cookie/*",
     [
-      557536
+      560301
     ]
   ],
   [
     "/plugins/mrdev_cmp/*",
     [
-      557537
+      560302
     ]
   ],
   [
     "/plugins/real-cookie-banner",
     [
-      557538
+      560303
     ]
   ],
   [
     "/plugins/rh-privacy-consent/*",
     [
-      557539
+      560304
     ]
   ],
   [
     "/plugins/wordpress-gdpr/*",
     [
-      557540
+      560305
     ]
   ],
   [
     "/plugins/wp-cookie-allow/*$script",
     [
-      557541
+      560306
     ]
   ],
   [
     "/Plumrocket_CookieConsent/*",
     [
-      557542
+      560307
     ]
   ],
   [
     "/pp-t-a-c.js",
     [
-      557543
+      560308
     ]
   ],
   [
     "/privacy-banner/storefront-banner.js",
     [
-      557544
+      560309
     ]
   ],
   [
     "/privacy/providers/CookiesDataProvider",
     [
-      557545
+      560310
     ]
   ],
   [
     "/privacyPopup/*",
     [
-      557546
+      560311
     ]
   ],
   [
     "/rg-gdpr.js",
     [
-      557547
+      560312
     ]
   ],
   [
     "/rgpd.js",
     [
-      557548
+      560313
     ]
   ],
   [
     "/rm-cookieconsent.js",
     [
-      557549
+      560314
     ]
   ],
   [
     "/rs/cookiemanager/*$script",
     [
-      557550
+      560315
     ]
   ],
   [
     "/silverstripe-dsgvo-cookies/*",
     [
-      557551
+      560316
     ]
   ],
   [
     "/sizzlegdpr.",
     [
-      557552
+      560317
     ]
   ],
   [
     "/sp-dsgvo-public.min.js",
     [
-      557553
+      560318
     ]
   ],
   [
     "/storage/ui/cookies-banner",
     [
-      557554
+      560319
+    ]
+  ],
+  [
+    "/syno_cookie_element.",
+    [
+      560320
     ]
   ],
   [
     "/tagcommander/privacy_",
     [
-      557555
+      560321
     ]
   ],
   [
     "/tcf-cmp.min.js",
     [
-      557556
+      560322
     ]
   ],
   [
     "/tracking-opt-in/*",
     [
-      557557
+      560323
     ]
   ],
   [
     "/unibo-cookies.",
     [
-      557558
+      560324
     ]
   ],
   [
     "/unitb-cmp.",
     [
-      557559
+      560325
     ]
   ],
   [
     "/user-cookie-banner/*",
     [
-      557560
+      560326
     ]
   ],
   [
     "/viucomcookie/*",
     [
-      557561
+      560327
     ]
   ],
   [
     "/wp-content/plugins/cookies-and-content-security-policy",
     [
-      557562
+      560328
     ]
   ],
   [
     "/wpjslib-ecom.js",
     [
-      557563
+      560329
     ]
   ],
   [
     "/ws5_eucookie/*",
     [
-      557564
+      560330
     ]
   ],
   [
     "_cookie_consent$script,domain=~bookingbuddy.com|~ifabrik.de",
     [
-      557565
+      560331
     ]
   ],
   [
     "_CookieConsent.js",
     [
-      557566
+      560332
     ]
   ],
   [
     "cookielayer.js",
     [
-      557567
+      560333
     ]
   ],
   [
     "cookiemon.atcom.gr$third-party",
     [
-      557568
+      560334
     ]
   ],
   [
     "dl.cmp.min.js",
     [
-      557569
+      560335
     ]
   ],
   [
     "global.ketchcdn.com",
     [
-      557570
+      560336
     ]
   ],
   [
     "ihavecookies.$script,stylesheet",
     [
-      557571
+      560337
     ]
   ],
   [
     "nexus.ensighten.com",
     [
-      557572
+      560338
     ]
   ],
   [
     "||a-lehdet.fi^*/cmp.js",
     [
-      557573
+      560339
     ]
   ],
   [
     "||almamedia.fi/almacmp/$script,third-party,domain=~iltalehti.fi",
     [
-      557574
+      560340
     ]
   ],
   [
     "||am-static.com/cookie-banner/sdk.js$third-party",
     [
-      557575
+      560341
     ]
   ],
   [
     "||appconsent.io$third-party",
     [
-      557576
+      560342
     ]
   ],
   [
     "||assetlab.io/consent/",
     [
-      557577
+      560343
     ]
   ],
   [
     "||axept.io^$third-party",
     [
-      557578
+      560344
     ]
   ],
   [
     "||bandeau-cookie.com^$third-party",
     [
-      557579
+      560345
     ]
   ],
   [
     "||cc.anytrack.de^",
     [
-      557580
+      560346
     ]
   ],
   [
     "||ccm19.de/app.js$script",
     [
-      557581
+      560347
     ]
   ],
   [
     "||ccm19boros.de^$third-party",
     [
-      557582
+      560348
     ]
   ],
   [
     "||cdn-cookieyes.com/client_data/",
     [
-      557583
+      560349
     ]
   ],
   [
     "||choices.consentframework.com$third-party",
     [
-      557584
+      560350
     ]
   ],
   [
     "||civiccomputing.com^*/cookieControl-",
     [
-      557585
+      560351
     ]
   ],
   [
     "||classistatic.de/consent-statics$script,third-party",
     [
-      557586
+      560352
     ]
   ],
   [
     "||clickio.mgr.consensu.org^$third-party",
     [
-      557587
+      560353
     ]
   ],
   [
     "||clickiocmp.com^$third-party",
     [
-      557588
+      560354
     ]
   ],
   [
     "||cmp.gemius.com^",
     [
-      557589
+      560355
     ]
   ],
   [
     "||cmp.inmobi.com^$third-party",
     [
-      557590
+      560356
     ]
   ],
   [
     "||cmp.osano.com^$third-party,domain=~ebscohost.com|~insider.com|~insiderintelligence.com",
     [
-      557591
+      560357
     ]
   ],
   [
     "||cmp.setupcmp.com/$third-party",
     [
-      557592
+      560358
     ]
   ],
   [
     "||cmp.uniconsent.com^$third-party",
     [
-      557593
+      560359
     ]
   ],
   [
     "||consent-bist.de/public/app.js",
     [
-      557594
+      560360
     ]
   ],
   [
     "||consent.cookiefirst.com$third-party,domain=~hemmersbach.com|~parken-in-mainz.de|~proaurum.de",
     [
-      557595
+      560361
     ]
   ],
   [
     "||consent.hr/delivery/js/cmp$script",
     [
-      557596
+      560362
     ]
   ],
   [
     "||consent.trustarc.com/asset/notice.js$domain=~tripit.com",
     [
-      557597
+      560363
     ]
   ],
   [
     "||consent.trustarc.com/notice^$script,third-party,domain=~concursolutions.com|~forbes.com|~formula1.com|~fortune.com|~tripit.com",
     [
-      557598
+      560364
     ]
   ],
   [
     "||consentmanager.mgr.consensu.org^$third-party",
     [
-      557599
+      560365
     ]
   ],
   [
     "||consentmanager.net^$third-party,domain=~axelspringer-syndication.de|~gofeminin.de|~onmeda.de|~winfuture.de",
     [
-      557600
+      560366
     ]
   ],
   [
     "||cookie-script.com^$third-party",
     [
-      557601
+      560367
     ]
   ],
   [
     "||cookiebot.com^$third-party,domain=~deutschesapothekenportal.de|~ekstrabladet.dk|~yelmocines.es",
     [
-      557602
+      560368
     ]
   ],
   [
     "||cookiebot.eu/uc.js$third-party",
     [
-      557603
+      560369
     ]
   ],
   [
     "||cookiebox.ro^$third-party",
     [
-      557604
+      560370
     ]
   ],
   [
     "||cookiehub.eu$third-party",
     [
-      557605
+      560371
     ]
   ],
   [
     "||cookiehub.net^$third-party",
     [
-      557606
+      560372
     ]
   ],
   [
     "||cookieinformation.com/*/*.js",
     [
-      557607
+      560373
     ]
   ],
   [
     "||cookieinformation.com^$subdocument,third-party",
     [
-      557608
+      560374
     ]
   ],
   [
     "||cookielaw.emea.fcagroup.com^$third-party",
     [
-      557609
+      560375
     ]
   ],
   [
     "||cookielaw.org^$third-party",
     [
-      557610
+      560376
     ]
   ],
   [
     "||cookiemanager.wirth-horn.de^$third-party",
     [
-      557611
+      560377
     ]
   ],
   [
     "||cookiepro.com^$third-party,domain=~a1.ro|~antena3.ro",
     [
-      557612
+      560378
     ]
   ],
   [
     "||cookiereports.com^$third-party",
     [
-      557613
+      560379
     ]
   ],
   [
     "||diadao-services.com/rgpd-cookies^$third-party",
     [
-      557614
+      560380
     ]
   ],
   [
     "||dmgmediaprivacy.co.uk^$third-party",
     [
-      557615
+      560381
     ]
   ],
   [
     "||efilli.com^$third-party",
     [
-      557616
+      560382
     ]
   ],
   [
     "||epccm19.com/app.js",
     [
-      557617
+      560383
     ]
   ],
   [
     "||evidon.com/sitenotice/evidon-sitenotice-tag.js",
     [
-      557618
+      560384
     ]
   ],
   [
     "||fastcmp.com^$third-party",
     [
-      557619
+      560385
     ]
   ],
   [
     "||gdpr-api.sharethis.com/cmp$script",
     [
-      557620
+      560386
     ]
   ],
   [
     "||gdpr-legal-cookie.beeclever.app^$third-party",
     [
-      557621
+      560387
     ]
   ],
   [
     "||gdpr.mandarin-medien.de/manager.js$script",
     [
-      557622
+      560388
     ]
   ],
   [
     "||goadopt.io/*/get-consent",
     [
-      557623
+      560389
     ]
   ],
   [
     "||hs-banner.com^$third-party,domain=~insider-inc.com",
     [
-      557624
+      560390
     ]
   ],
   [
     "||hu-manity.co/hu-banner.min.js",
     [
-      557625
+      560391
     ]
   ],
   [
     "||illow.io/public/cookies/",
     [
-      557626
+      560392
     ]
   ],
   [
     "||itv.com/itvstatic/assets/cookies-prompt/",
     [
-      557627
+      560393
     ]
   ],
   [
     "||iubenda.com/$third-party",
     [
-      557628
+      560394
     ]
   ],
   [
     "||lawwwing.com/widgets^$third-party",
     [
-      557629
+      560395
     ]
   ],
   [
     "||myprivacy.dpgmedia.net/consent.js$third-party",
     [
-      557630
+      560396
     ]
   ],
   [
     "||network-n.com^$third-party",
     [
-      557631
+      560397
     ]
   ],
   [
     "||nojazz.eu/consent/cmpv3^$third-party",
     [
-      557632
+      560398
     ]
   ],
   [
     "||onetrust.com^$third-party,domain=~pushsquare.com|~shein.com|~worldremit.com",
     [
-      557633
+      560399
     ]
   ],
   [
     "||onetrust.mgr.consensu.org^$third-party",
     [
-      557634
+      560400
     ]
   ],
   [
     "||opencmp.net^$script,third-party,domain=~idowa.de",
     [
-      557635
+      560401
     ]
   ],
   [
     "||piwik.pro$third-party",
     [
-      557636
+      560402
     ]
   ],
   [
     "||privacy-center.org^$third-party,domain=~europe1.fr|~seloger.com",
     [
-      557637
+      560403
     ]
   ],
   [
     "||privacy-mgmt.com$third-party,domain=~11freunde.de|~auto-motor-sport.de|~auto-motor-und-sport.de|~bild.de|~boerse-online.de|~bold.dk|~businessinsider.de|~bz-berlin.de|~chip.de|~cielotv.it|~clever-tanken.de|~cosmopolitan.de|~cyberport.at|~cyberport.de|~derstandard.at|~derstandard.de|~epaper.volksstimme.de|~express.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~focus.de|~formula1.com|~freenet-funk.de|~giga.de|~golem.de|~heise.de|~helpster.de|~idealo.at|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~insider.com|~ladenzeile.de|~lvz.de|~maennersache.de|~mein-schoener-garten.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n-tv.de|~nu.nl|~ostsee-zeitung.de|~pelikone.fi|~politico.eu|~praxisvita.de|~privacy-mgmt.com|~rollingstone.de|~rtl.de|~rtl2.de|~ruutu.fi|~si.com|~sky.com|~spiegel.de|~standard.co.uk|~stern.de|~stylebook.de|~sueddeutsche.de|~t-online.de|~t3n.de|~techbook.de|~theguardian.com.|~tomsguide.com|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~tv8.it|~tvmovie.de|~tvspielfilm.de|~vip.de|~virginradio.co.uk|~volkskrant.nl|~vox.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~wunderweib.de",
     [
-      557638
+      560404
     ]
   ],
   [
     "||privacymanager.io$third-party",
     [
-      557639
+      560405
     ]
   ],
   [
     "||pubtech.ai$third-party",
     [
-      557640
+      560406
     ]
   ],
   [
     "||push-content.springernature.io^$script",
     [
-      557641
+      560407
     ]
   ],
   [
     "||quantcast.com/tcfv2^$script,domain=~comingsoon.it|~express.co.uk|~formulatv.com|~vita.gr",
     [
-      557642
+      560408
     ]
   ],
   [
     "||quantcast.mgr.consensu.org^$third-party,domain=~cerebriti.com|~fly4free.com|~kueez.com",
     [
-      557643
+      560409
     ]
   ],
   [
     "||ressource.gdpr-banner.awsmpsa.com^",
     [
-      557644
+      560410
     ]
   ],
   [
     "||s.clickiocdn.com/t/consent_$script",
     [
-      557645
+      560411
     ]
   ],
   [
     "||secureprivacy.ai/secureprivacy-plugin/$third-party",
     [
-      557646
+      560412
     ]
   ],
   [
     "||sharethis.mgr.consensu.org^$third-party",
     [
-      557647
+      560413
     ]
   ],
   [
     "||sibbo.net$third-party,domain=~atresplayer.com",
     [
-      557648
+      560414
     ]
   ],
   [
     "||smart.idmnet.pl/consent/",
     [
-      557649
+      560415
     ]
   ],
   [
     "||sourcepoint.mgr.consensu.org^$third-party,domain=~t3n.de",
     [
-      557650
+      560416
     ]
   ],
   [
     "||t.atmng.io^$third-party",
     [
-      557651
+      560417
     ]
   ],
   [
     "||tarteaucitron.io/$script,third-party",
     [
-      557652
+      560418
     ]
   ],
   [
     "||termly.io^$third-party",
     [
-      557653
+      560419
     ]
   ],
   [
     "||transcend.io^$third-party",
     [
-      557654
+      560420
     ]
   ],
   [
     "||truendo.com^$third-party",
     [
-      557655
+      560421
     ]
   ],
   [
     "||truevaultcdn.com^$third-party",
     [
-      557656
+      560422
     ]
   ],
   [
     "||trustcommander.net/privacy$script,domain=~tf1.fr|~tf1info.fr",
     [
-      557657
+      560423
     ]
   ],
   [
     "||usercentrics.eu$third-party,domain=~idealo.co.uk|~immonet.de|~joyn.de|~kabeleins.de|~prosieben.de|~ran.de|~sat1.de|~sixx.de|~wetter.com",
     [
-      557658
+      560424
     ]
   ],
   [
     "||webcache-eu.datareporter.eu^$third-party",
     [
-      557659
+      560425
     ]
   ],
   [
     "||widget.clym-sdk.net^$third-party",
     [
-      557660
+      560426
     ]
   ],
   [
     "||wip.pl/js/cookie.js",
     [
-      557661
+      560427
     ]
   ],
   [
     "||yastatic.net/s3/gdpr$script",
     [
-      557662
+      560428
     ]
   ],
   [
     "/ccpa_iframe$subdocument,domain=dropbox.com",
     [
-      557663
+      560429
     ]
   ],
   [
     "/chunk-cookie-consent-modal$script,domain=jobs.ch|jobup.ch",
     [
-      557664
+      560430
     ]
   ],
   [
     "/cmp.js$domain=corporate.modivo.com",
     [
-      557665
+      560431
     ]
   ],
   [
     "/cmp.min.js$domain=paruvendu.fr",
     [
-      557666
+      560432
     ]
   ],
   [
     "/consent$domain=careers.equinix.com",
     [
-      557667
+      560433
     ]
   ],
   [
     "/cookie$domain=e-herbapol.com.pl",
     [
-      557668
+      560434
     ]
   ],
   [
     "/cookie$script,domain=jamieoliver.com",
     [
-      557669
+      560435
     ]
   ],
   [
     "/cookie-scripts-*.js$domain=worktop-express.de",
     [
-      557670
+      560436
     ]
   ],
   [
     "/cookie.jsx$domain=bravoerotica.com",
     [
-      557671
+      560437
     ]
   ],
   [
     "/cookie_modal_ajax.php$domain=georg.at",
     [
-      557672
+      560438
     ]
   ],
   [
     "/cookies.js$domain=cifas.org.uk|defencediscountservice.co.uk|loveholidays.com|loveholidays.ie",
     [
-      557673
+      560439
     ]
   ],
   [
     "/cookies.min.js$domain=bpmarco.pl|bulk.com|exellent.be",
     [
-      557674
+      560440
     ]
   ],
   [
     "/ensighten/*$domain=ba.com|britishairways.com",
     [
-      557675
+      560441
     ]
   ],
   [
     "/gdpr$script,domain=giga.de|kleinanzeigen.de|weebly.com",
     [
-      557676
+      560442
     ]
   ],
   [
     "/gdpr/native-message$domain=golem.de|gpfans.com|newsnow.co.uk|parkers.co.uk|planetradio.co.uk|selbst.de|tagesspiegel.de|telegraph.co.uk|unsere-helden.com|wetteronline.de|wiwo.de",
     [
-      557677
+      560443
     ]
   ],
   [
     "/jimmsconsent$domain=jimms.fi",
     [
-      557678
+      560444
     ]
   ],
   [
     "/js.cookie.min.js$domain=oxfordshire.gov.uk",
     [
-      557679
+      560445
     ]
   ],
   [
     "/main-rgpd.js$domain=inclusiscore.org",
     [
-      557680
+      560446
     ]
   ],
   [
     "/module-html-consent$domain=jmonline.com.br",
     [
-      557681
+      560447
     ]
   ],
   [
     "/opt-in$domain=sparebank1.no",
     [
-      557682
+      560448
     ]
   ],
   [
     "/pdcookiepro/*$domain=medyczny.store",
     [
-      557683
+      560449
     ]
   ],
   [
     "/theme-cookie/*$domain=ludigoodies.com",
     [
-      557684
+      560450
     ]
   ],
   [
     "/user-consent-management/*$domain=americanexpress.com",
     [
-      557685
+      560451
     ]
   ],
   [
     "/wrapperMessagingWithoutDetection.js$domain=10kysymysta.fi|4players.de|7sur7.be|abiristeilyt.fi|ad-alliance.de|aftenposten.no|akuankka.fi|alypaa.com|autoexpress.co.uk|automobil-elektronik-kongress.de|autotrader.co.uk|autozeitung.de|baby-und-familie.de|badoo.com|bbcgoodfood.com|bestcheck.de|bikeradar.com|bitpipe.com|bitpipe.com.br|brighttalk.com|bt.no|businessinsider.com|businessinsider.es|camping.info|capital.de|caravaning.de|cardscout.de|carthrottle.com|cavallo.de|channelpartner.de|chefkoch.de|chesterstandard.co.uk|cio.com|cio.de|classicfm.com|computerfrage.net|computerhoy.com|computerweekly.com|computerwoche.de|computerworld.com|csoonline.com|dailyresearchplot.com|denofgeek.com|dexerto.com|digilehdet.fi|digitalartsonline.co.uk|discoverwildlife.com|duden.de|ecomento.de|edpc.eu|eiu.com|ekuriren.se|elektroauto-news.net|essen-und-trinken.de|esslinger-zeitung.de|expertreviews.co.uk|familie.de|finanzen100.de|finanzfrage.net|finn.no|flugrevue.de|frag-mutti.de|futisporssi.fi|gelderlander.nl|geo-television.de|gladbachlive.de|globalplayer.com|goom.net|gruenderkueche.de|gutefrage.net|hannover.de|heise.de|helpster.de|himosjuhannus.fi|hitc.com|hobbyconsolas.com|hockeygm.fi|iltapulu.fi|iskelma.fi|iskelmafestivaali.fi|itpro.co.uk|jameda.de|justthenews.com|jysari.fi|kachelmannwetter.com|kkuriren.se|klamm.de|kn-online.de|krzbb.de|kuechengoetter.de|kuopiorock.fi|lancashiretelegraph.co.uk|lecker.de|leijonaporssi.fi|lemagit.fr|leonberger-kreiszeitung.de|lepoint.fr|leserreisen.mz-web.de|liberation.fr|liigaporssi.fi|livingathome.de|ln-online.de|lovelybooks.de|macwelt.de|macworld.com|mcnmotorcycleshow.com|mediaimpact.de|mein-schoener-garten.de|meine.noz.de|meineorte.com|menshealth.de|morewithvpro.com|mountainbike-magazin.de|muehlacker-tagblatt.de|n-page.de|nelonenmedialive.fi|netdoktor.de|netmoms.de|networkworld.com|neuepresse.de|nitro-tv.de|nnn.de|nowtv.it|noz.de|oekotest.de|oskar.de|ostsee-zeitung.de|pcgamesn.com|pclifecyclemanagement.com|pcwelt.de|pcworld.com|pcworld.es|phonostar.de|planet3ds.de|planetds.de|planetgameboy.de|planetiphone.de|planetswitch.de|planetvita.de|playstationportable.de|podplay.com|portablegaming.de|praxisvita.de|prignitzer.de|promobil.de|qz.com|radio.de|radio.net|radio.pl|radiocity.fi|radionova.fi|radioplay.fi|radiopooki.fi|rakennuslehti.fi|realitytitbit.com|reisefrage.net|rheinpfalz.de|rmj.fi|roadbike.de|rockfest.fi|rtl-passion.de|rtlplus.de|rugbydump.com|rugbyonslaught.com|sanakirja.org|sanoma.fi|scholieren.com|sciencefocus.com|senioren-ratgeber.de|shz.de|si.com|sky.com|sky.de|speed.io|sportbible.com|sportsmole.co.uk|standard.co.uk|startpagina.nl|streampicker.de|studyflix.de|stuff.tv|stuttgarter-zeitung.de|sueddeutscher-verlag.de|suomipopfestivaali.fi|suomitutka.fi|sv-veranstaltungen.de|svd.se|svz.de|swmh.de|t-online.de|tahkojuhannus.fi|tammerfest.fi|tecchannel.de|techadvisor.com|techadvisor.fr|techhive.com|techstage.de|techtarget.com|techtarget.de|techtarget.fr|testedich.de|the-sun.com|thecelticblog.com|theloadout.com|thepeoplesperson.com|thescottishsun.co.uk|theserverside.com|thesun.co.uk|thesun.ie|toggo.de|tv14.de|tvmovie.de|tvnow.at|utopia.de|vaalikone.fi|vg.no|vink.aftenposten.no|visit-hannover.com|vkmag.com|vkz.de|voice.fi|wetteronline.de|whats-on-netflix.com|wisden.com|wiwo.de|zvw.de",
     [
-      557686
+      560452
     ]
   ],
   [
     "consent.js$domain=bonprix.es|bonprix.hu|bonprix.pl|bonprix.ro|bonprix.sk",
     [
-      557687
+      560453
     ]
   ],
   [
     "cookie.js$domain=eshop.idsbk.sk|ideo.com|theodorkoernerfonds.at",
     [
-      557688
+      560454
     ]
   ],
   [
     "trcking.min.js^$domain=canalplus.com",
     [
-      557689
+      560455
     ]
   ],
   [
     "||cc.diewebsitemacherei.de^",
     [
-      557690
+      560456
     ]
   ],
   [
     "||cmp.biomedcentral.com$script",
     [
-      557691
+      560457
     ]
   ],
   [
     "||cmp.bordverpflegung.de/public/app.js",
     [
-      557692
+      560458
     ]
   ],
   [
     "||cmp.courrierinternational.com^",
     [
-      557693
+      560459
     ]
   ],
   [
     "||cmp.tek.no^",
     [
-      557694
+      560460
     ]
   ],
   [
     "||cmp.telerama.fr^",
     [
-      557695
+      560461
     ]
   ],
   [
     "||consent.werner-mertz.de",
     [
-      557696
+      560462
     ]
   ],
   [
     "||consenttool.haendlerbund.de^",
     [
-      557697
+      560463
+    ]
+  ],
+  [
+    "||cookiebot.eu/uc.js$domain=casio.com|expert.de|heima24.de|heizungsdiscount24.de",
+    [
+      560464
     ]
   ],
   [
     "||cookies.jeugdjournaal.nl^",
     [
-      557698
+      560465
     ]
   ],
   [
     "||cookies.nos.nl^",
     [
-      557699
+      560466
     ]
   ],
   [
     "||fastweb.it/cookie-center/",
     [
-      557700
+      560467
     ]
   ],
   [
     "||fc2.com/share/js/gdpr/",
     [
-      557701
+      560468
     ]
   ],
   [
     "||interia.pl/rodo/messages-jsonp$script",
     [
-      557702
+      560469
     ]
   ],
   [
     "||lego.com/api/graphql/ConsentModalSettings$xmlhttprequest",
     [
-      557703
+      560470
     ]
   ],
   [
     "||link.com/cookie-notifications",
     [
-      557704
+      560471
     ]
   ],
   [
     "||seznam.cz/cmp^$domain=fullmoonzine.cz",
     [
-      557705
+      560472
     ]
   ],
   [
     "||shop.mango.com/st-cookies/",
     [
-      557706
+      560473
     ]
   ],
   [
     "||sourcepoint.gizmodo.com^",
     [
-      557707
+      560474
     ]
   ],
   [
     "||storage-mart.com/sm-policy-banner.js",
     [
-      557708
+      560475
     ]
   ],
   [
     "||teufel.*/privacy-layer",
     [
-      557709
+      560476
     ]
   ],
   [
     "||teufelaudio.*/privacy-layer",
     [
-      557710
+      560477
     ]
   ],
   [
-    "@@||cookielaw.org^$third-party,domain=a1.ro|antena3.ro|beko.com|cnn.com|eurogamer.es|eurogamer.nl|homedepot.ca|jetztspielen.de|larousse.fr|mtvuutiset|pge.com|politico.com|tunein.com|tvn24.pl|vmware.com|webuyanycar.com",
+    "@@||cookielaw.org^$third-party,domain=a1.ro|antena3.ro|beko.com|cnn.com|eurogamer.es|eurogamer.nl|homedepot.ca|jetztspielen.de|larousse.fr|mtvuutiset|pge.com|politico.com|ted.com|tunein.com|tvn24.pl|vmware.com|webuyanycar.com|foodandwine.com|investopedia.com|travelandleisure.com|mtvuutiset.fi",
     [
-      557711
+      560478
     ]
   ],
   [
-    "@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=beko.com|homedepot.ca|jetztspielen.de|larousse.fr|politico.com|tunein.com|webuyanycar.com",
+    "@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=beko.com|homedepot.ca|jetztspielen.de|larousse.fr|politico.com|ted.com|tunein.com|webuyanycar.com",
     [
-      557712
+      560479
     ]
   ],
   [
     "@@||iubenda.com^$script,subdocument,xmlhttprequest,domain=capital.it|deejay.it|ilgazzettino.it|m2o.it|repubblica.it|virginradio.it",
     [
-      557713
+      560480
     ]
   ],
   [
     "@@||portal.energie-graz.at/kundenportal/css/cookieconsent/$~third-party",
     [
-      557714
+      560481
     ]
   ],
   [
     "@@||portal.energie-graz.at/kundenportal/js/lib/cookieconsent.js$~third-party",
     [
-      557715
+      560482
     ]
   ],
   [
     "@@||privacymanager.io^$domain=geenstijl.nl|gids.tv|kurier.at|profil.at",
     [
-      557716
+      560483
     ]
   ],
   [
     "@@||salonkee.cloud/data/other/js/cookie-consent-",
     [
-      557717
+      560484
     ]
   ],
   [
     "@@||sdk.privacy-center.org^$script,domain=as.com|bfmtv.com|bonduelle.it|cnews.fr|corrieredellosport.it|dumpert.nl|filmweb.pl|francetvinfo.fr|funradio.fr|gamestar.de|goplay.be|hbvl.be|imoveis.mitula.pt|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|lequipe.fr|marianne.net|mein-mmo.de|mundodeportivo.com|nieuwsblad.be|onmeda.de|opodo.co.uk|opodo.com|opodo.de|opodo.fr|opodo.it|podcasts.leparisien.fr|rtl.be|rtl.fr|seguro.elespanol.com|sncf-connect.com|standaard.be|strefabiznesu.pl|telegraaf.nl|trontv.com|tuttosport.com|vecernji.hr|xataka.com",
     [
-      557718
+      560485
     ]
   ],
   [
     "@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=atv.at|bayer04.de|douglas.de|festool.at|festool.be|festool.bg|festool.ch|festool.cn|festool.co.kr|festool.co.uk|festool.co.za|festool.com|festool.cz|festool.de|festool.dk|festool.es|festool.fi|festool.fr|festool.hu|festool.ie|festool.it|festool.lt|festool.nl|festool.no|festool.pl|festool.pt|festool.ro|festool.ru|festool.se|festool.sk|festool.ua|festoolcanada.com|festoolusa.com|morenutrition.de|paketshop.myhermes.de|prosieben.at|puls4.com|radiobob.de|ran.de|rts.ch|sat1.at|schlager.radio|sportdeutschland.tv|sportscheck.com|verivox.de",
     [
-      557719
+      560486
     ]
   ]
 ]

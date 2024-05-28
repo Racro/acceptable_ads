@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
-! Checksum: m0DJ9oy763VSMpdWzXnzlw
+! Checksum: 3kklqKmmvr0rYLJ17u2WKQ
 ! id: CDAD4CF5-2706-42CB-B404-F5B9B61B8CAA
-! DiffUrl: https://easylist-downloads.adblockplus.org/v3/diff/adblock_premium/94c5ce779bc0e71e92a2996a9c775099a5cb9182.json
-! Version: 202404290901
+! DiffUrl: https://easylist-downloads.adblockplus.org/v3/diff/adblock_premium/2eaeb7776a63be5fd810981127c8b2657b02eb87.json
+! Version: 202405130901
 ! Title: Premium - Distraction Control
-! Last modified: 29 Apr 2024 09:01 UTC
+! Last modified: 13 May 2024 09:01 UTC
 ! Expires: 1 days (update frequency)
 !
 ! *** distraction-control:distraction-control.txt ***
-! Last modified: 28 Apr 2024 17:32 UTC
+! Last modified: 12 May 2024 17:31 UTC
 ! 
 ! -----------------------General blocking filters-----------------------!
 ! *** distraction-control:app/blocking_general.txt ***
@@ -183,6 +183,7 @@ tag.bounceexchange.com
 ||activehosted.com/f/embed.php$script,domain=~renegade.global
 /wp-content/plugins/99robots-optin-fire/*
 ||getresponse.com/view_webform$script
+/gr-popups$script
 ||get.exitintel.com/load.js$script
 /popup-by-supsystic/*
 ||cdn.jst.ai/mwgt$script
@@ -1066,6 +1067,10 @@ vhs.at##.nl-teaser-container
 schlossberg.ch,myschlossberg.com###scnm_newsletter_popup
 dehoniane.it###newsletter-slide
 iasgp.org###popup__newsletter_signup
+health.harvard.edu##.sticky-popup:has(input[type="email"])
+intergameonline.com##.popup:has(#subscriptions-form)
+intergameonline.com##.subsoverlay
+bazarchic.com#?#div:has(> main:-abp-contains(newsletters))
 ! ---------------------------Newsletter Snippets---------------------------!
 ! *** distraction-control:newsletter/snippet.txt ***
 ! 
@@ -1555,6 +1560,11 @@ campingrecycled.co.uk#$#specificClicker '.newsletter-modal .btn-close'
 edifier.com#$#specificClicker '.welcome-close'
 kavalio.de#$#specificClicker '#popupNewsletter .remodal--close'
 hotel-merlin.cz#$#specificClicker '#getMoreModal.show' 'button[data-dismiss="modal"]'
+fortressbp.com#$#specificClicker '.newsletter-wrapper-close-x'
+health.harvard.edu#$#specificClicker '.welcome-popup button.absolute.top-4'
+forbes.com#$#specificClicker '.zephr-editorial-newsletter-modal .zephr-close-btn'
+crooked.com#$#specificClicker '.subscribe-modal__close'
+theswicegoodgroup.com#$#specificClicker '#subscribeModal.in .close'
 ! *** distraction-control:newsletter/snippet-abp.txt ***
 ! 
 ! site specific snippet rules
@@ -2046,6 +2056,11 @@ campingrecycled.co.uk#$#simulate-mouse-event '.newsletter-modal .btn-close'
 edifier.com#$#simulate-mouse-event '.welcome-close'
 kavalio.de#$#simulate-mouse-event '#popupNewsletter .remodal--close$continue'
 hotel-merlin.cz#$#simulate-mouse-event '#getMoreModal.show' 'button[data-dismiss="modal"]'
+fortressbp.com#$#simulate-mouse-event '.newsletter-wrapper-close-x'
+health.harvard.edu#$#simulate-mouse-event '.welcome-popup button.absolute.top-4$continue'
+forbes.com#$#simulate-mouse-event '.zephr-editorial-newsletter-modal .zephr-close-btn$continue'
+crooked.com#$#simulate-mouse-event '.subscribe-modal__close$continue'
+theswicegoodgroup.com#$#simulate-mouse-event '#subscribeModal.in .close'
 ! 
 ! -----------------------Push General blocking filters-----------------------!
 ! *** distraction-control:push/blocking_general.txt ***
