@@ -129,18 +129,18 @@ export async function crawl(flags) {
         reuse: true,
         xvfb_args: ["-screen", "0", '1280x720x24', "-ac"],
     });
-    xvfb.startSync((err)=>{if (err) console.error(err)})
+    // xvfb.startSync((err)=>{if (err) console.error(err)})
 
     var p_args;
     if (FLAGS.chromeOptions.extnPath === 'control'){
         p_args = [
-	    '--display='+xvfb._display,
+	    // '--display='+xvfb._display,
 	    '--no-sandbox',
 	    '--disable-gpu',
             '--disable-dev-shm-usage', 
             '--start-maximized',
-            '--disable-extensions-except=./extn_src/consent',
-            '--load-extension=./extn_src/consent'
+            // '--disable-extensions-except=./extn_src/consent',
+            // '--load-extension=./extn_src/consent'
         ];
     }
     else{
@@ -149,8 +149,10 @@ export async function crawl(flags) {
 	    '--disable-gpu',
             '--disable-dev-shm-usage', 
             '--start-maximized',
-            `--disable-extensions-except=./extn_src/${FLAGS.chromeOptions.extnPath},./extn_src/consent`,
-            `--load-extension=./extn_src/${FLAGS.chromeOptions.extnPath}, ./extn_src/consent`
+            // `--disable-extensions-except=./extn_src/${FLAGS.chromeOptions.extnPath},./extn_src/consent`,
+            `--disable-extensions-except=./extn_src/${FLAGS.chromeOptions.extnPath}`,
+            `--load-extension=./extn_src/${FLAGS.chromeOptions.extnPath}`
+            // `--load-extension=./extn_src/${FLAGS.chromeOptions.extnPath}, ./extn_src/consent`
         ];
     }
     // console.log(FLAGS.chromeOptions.executablePath);
@@ -165,7 +167,7 @@ export async function crawl(flags) {
         userDataDir: FLAGS.chromeOptions.profileDir
         ,
         executablePath: FLAGS.chromeOptions.executablePath,
-        dumpio: true,
+        // dumpio: true,
 	timeout: 60000,
         // executablePath: '/usr/bin/google-chrome'
     });
@@ -289,7 +291,7 @@ export async function crawl(flags) {
         await db.postgres.query('UPDATE crawl SET completed=TRUE, completed_time=$1 WHERE id=$2', [new Date(), CRAWL_ID]);
         
 	// Ritik
-	await xvfb.stopSync();
+	// await xvfb.stopSync();
     }
     catch (e) {
         await BROWSER.close();
